@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bebelisto.vercel.app/sitemap.xml
+Sitemap: https://bebe-listo.vercel.app/sitemap.xml
