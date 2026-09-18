@@ -8,8 +8,7 @@ const SITE = {
   claim: "Guías y comparativas para elegir todo lo que tu bebé necesita sin perder tiempo ni dinero",
   description:
     "Guías de compra y comparativas independientes de sillas de coche, carritos, tronas, vigilabebés y el resto de artículos de puericultura, para decidir con criterio y sin gastar de más.",
-  // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://bebelisto.vercel.app",
+  domain: "https://bebe-listo.vercel.app",
   locale: "es_ES",
   lang: "es",
   // Store ID real, creado en el panel de afiliados.
