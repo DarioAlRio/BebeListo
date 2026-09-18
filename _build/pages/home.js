@@ -113,13 +113,16 @@ function home() {
           para comparar cualquier producto, lo compres donde lo compres.
         </p>
       </div>
-      <div class="trust-card">
-        <h3>Cómo se financia esta web</h3>
-        <p>${SITE.amazonDisclaimer}</p>
-        <p class="trust-note">
-          Enlazar a un producto no cambia su precio para ti ni implica que sea el único
-          recomendable: es una forma de sostener el tiempo que lleva escribir cada guía.
-        </p>
+      <div class="trust-side">
+        <img class="trust-photo" src="/assets/img/trust-bg.jpg" alt="Padres con su bebé en casa" loading="lazy" width="480" height="480">
+        <div class="trust-card">
+          <h3>Cómo se financia esta web</h3>
+          <p>${SITE.amazonDisclaimer}</p>
+          <p class="trust-note">
+            Enlazar a un producto no cambia su precio para ti ni implica que sea el único
+            recomendable: es una forma de sostener el tiempo que lleva escribir cada guía.
+          </p>
+        </div>
       </div>
     </div>
   </section>
