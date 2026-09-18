@@ -12,10 +12,8 @@ const SITE = {
   domain: "https://bebelisto.vercel.app",
   locale: "es_ES",
   lang: "es",
-  // Store ID PROVISIONAL: el usuario todavía no ha creado el Store ID real en
-  // el panel de Amazon Afiliados para este sitio. Sustituir por el tag real
-  // en cuanto se cree (ver PENDIENTE.md) y volver a ejecutar `node build.js`.
-  amazonTag: "bebelisto0a-21",
+  // Store ID real, creado en el panel de afiliados.
+  amazonTag: "bebelisto06-21",
   amazonDisclaimer:
     "Como Afiliado de Amazon, BebeListo obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.",
   social: {
