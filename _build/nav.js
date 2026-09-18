@@ -12,7 +12,6 @@ const SITE = {
   domain: "https://bebelisto.vercel.app",
   locale: "es_ES",
   lang: "es",
-  email: "hola@bebelisto.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
   // Store ID PROVISIONAL: el usuario todavía no ha creado el Store ID real en
   // el panel de Amazon Afiliados para este sitio. Sustituir por el tag real
   // en cuanto se cree (ver PENDIENTE.md) y volver a ejecutar `node build.js`.
