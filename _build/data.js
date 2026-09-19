@@ -1483,6 +1483,126 @@ const ARTICLES = [
       "La pregunta que más ayuda a decidir no es \"¿cuánto cuesta la mejor marca?\" sino \"¿qué voy a usar de verdad todos los días?\": priorizar el gasto ahí (<a href='/guias/cochecitos-y-carritos-de-bebe.html'>carrito</a>, trona, portabebés si porteas a menudo) suele dar mejor relación uso-precio que gastar más en productos de uso puntual."
     ],
   },
+  {
+    slug: "silla-de-coche-i-size-que-significa-realmente",
+    title: "Silla de coche i-Size: qué significa realmente y por qué importa",
+    dek: "El estándar i-Size explicado sin tecnicismos: en qué cambia frente a la normativa anterior y qué debes mirar antes de comprar.",
+    updated: "2026-09-19",
+    body: [
+      "Cuando se busca una <a href='/guias/sillas-de-coche-para-bebe.html'>silla de coche</a> es habitual encontrarse la etiqueta \"i-Size\" en casi todos los modelos recientes, pero no siempre queda claro qué significa realmente ni por qué se ha impuesto sobre el sistema anterior de \"grupos\" de peso.",
+      "La diferencia principal es el criterio de clasificación: mientras que el sistema clásico agrupaba las sillas por peso del niño (grupo 0, 0+, 1, 2, 3), i-Size clasifica por altura, que se considera un indicador más fiable del desarrollo físico del niño en cada momento, sobre todo en los primeros años. Por eso una silla i-Size suele indicar un rango como \"40-105 cm\" en lugar de un peso concreto.",
+      "Otra diferencia relevante es que las sillas i-Size solo se instalan con anclaje Isofix (más el punto de apoyo correspondiente, ya sea pata de carga o Top Tether), lo que reduce el margen de error frente a instalar con el cinturón de seguridad del coche. Esto no significa que las sillas homologadas con cinturón dejen de ser seguras, sino que i-Size estandariza un método de instalación más sencillo de hacer bien a la primera.",
+      "Para quien compra hoy, lo práctico es esto: si el coche tiene anclajes Isofix en la plaza donde va a ir la silla, una i-Size suele ser la opción más cómoda de instalar correctamente sin depender tanto de la pericia de quien la coloca. Conviene comprobar siempre, de todas formas, la ficha de compatibilidad del fabricante con el modelo concreto de coche antes de comprar, porque no todas las combinaciones encajan igual de bien."
+    ],
+  },
+  {
+    slug: "cochecito-de-paseo-ciudad-o-todoterreno",
+    title: "Cochecito de paseo: ciudad o todoterreno, cómo decidir sin arrepentirse",
+    dek: "Las preguntas que de verdad predicen si vas a estar contento con el carrito dentro de seis meses.",
+    updated: "2026-09-19",
+    body: [
+      "Antes de fijarse en el diseño de un <a href='/guias/cochecitos-y-carritos-de-bebe.html'>cochecito</a>, conviene hacerse una pregunta muy concreta: ¿dónde vas a usarlo la mayoría de los días? La respuesta cambia bastante qué tipo de carrito conviene más, y es fácil acabar con un modelo pensado para otro terreno distinto del que realmente se pisa a diario.",
+      "Si el uso principal va a ser en ciudad —aceras, transporte público, ascensores, entrar y salir de tiendas—, lo que más se agradece es un carrito ligero, con giro de ruedas delanteras a 360° para maniobrar en espacios estrechos, y un plegado rápido que no ocupe demasiado en el maletero de un coche urbano o en la entrada de casa. El peso del chasis pesa (nunca mejor dicho) mucho más en el día a día que la amortiguación extra de un modelo todoterreno.",
+      "Si en cambio se va a usar sobre todo en caminos de tierra, parques sin asfaltar o superficies irregulares, ruedas más grandes con buena suspensión marcan una diferencia real en la comodidad del bebé y en el esfuerzo de quien empuja: un carrito ligero de ciudad se nota mucho más incómodo ahí, aunque sea más manejable en un portal estrecho.",
+      "Pocos carritos son igual de buenos en ambos terrenos a la vez, así que merece la pena ser sincero sobre el uso real antes de dejarse llevar por las fotos del producto: un carrito que se adapta bien a tu rutina diaria se acaba usando más y mejor que uno objetivamente más completo sobre el papel."
+    ],
+  },
+  {
+    slug: "cuando-y-como-usar-un-monitor-de-video-para-bebes",
+    title: "Cuándo y cómo usar un monitor de vídeo para bebés con tranquilidad",
+    dek: "Ni sustituye la supervisión ni es imprescindible desde el primer día: para qué sirve de verdad un vigilabebés con cámara.",
+    updated: "2026-09-19",
+    body: [
+      "Muchas familias se plantean comprar un <a href='/guias/monitores-y-vigilabebes.html'>vigilabebés</a> con cámara antes incluso de que nazca el bebé, y no siempre está claro en qué momento empieza a ser útil de verdad ni qué expectativas es razonable tener de él.",
+      "Un monitor de vídeo no sustituye la supervisión directa: es una herramienta para poder estar en otra habitación (la cocina, el salón, otra planta de la casa) con la tranquilidad de oír o ver si el bebé se despierta o llora, no un sistema de vigilancia que garantice que nunca puede pasar nada. Conviene tener esa expectativa clara desde el principio para no generar una falsa sensación de control total.",
+      "En cuanto al momento de empezar a usarlo, no hay una edad fija: algunas familias lo usan desde la primera noche en casa, sobre todo si el bebé duerme en una habitación distinta desde el principio; otras prefieren tener al bebé cerca las primeras semanas y empiezan a usar el monitor cuando pasa a su propia habitación, algo que suele ocurrir en algún momento entre los primeros meses y el primer año, según cada familia.",
+      "Para un uso tranquilo conviene revisar dos cosas antes de instalarlo: colocar la cámara fuera del alcance del bebé y de la cuna (nunca colgando cerca con cables sueltos), y decidir con conocimiento si prefieres un modelo sin WiFi, que no depende de tu red ni de una cuenta en la nube, frente a uno con app que permite ver la imagen desde el móvil en cualquier lugar de la casa o fuera de ella."
+    ],
+  },
+  {
+    slug: "portabebes-postura-correcta-y-edad-recomendada",
+    title: "Portabebés ergonómico: postura correcta y edad recomendada",
+    dek: "Cómo comprobar en dos minutos si el porteo se está haciendo bien, sin necesidad de conocimientos previos.",
+    updated: "2026-09-19",
+    body: [
+      "Uno de los mayores frenos para empezar a portear es la duda sobre si se está haciendo \"bien\": la buena noticia es que los criterios de un <a href='/guias/portabebes-y-mochilas-ergonomicas.html'>porteo ergonómico</a> correcto son pocos y se pueden comprobar a simple vista cada vez que se coloca al bebé.",
+      "Lo primero que hay que mirar son las piernas del bebé: deben quedar en forma de \"M\", con las rodillas más altas que las caderas y separadas hacia los lados, apoyadas desde el muslo hasta detrás de la rodilla, nunca colgando rectas sujetas solo por la entrepierna. Esta posición reparte mejor el peso en la articulación de la cadera, que en los primeros meses todavía está en desarrollo.",
+      "Lo segundo es la espalda: debe poder curvarse de forma natural en forma de \"C\", ni completamente recta ni forzada hacia atrás. Un portabebés demasiado rígido en la zona del tronco puede impedir esa curva natural aunque las piernas estén bien colocadas, así que conviene revisar ambos puntos, no solo uno.",
+      "Sobre la edad recomendada, la mayoría de los portabebés ergonómicos actuales incluyen un modo específico para recién nacidos (a veces con un reductor o cojín adicional) a partir de un peso mínimo indicado por el fabricante, habitualmente entre 3 y 3,5 kg, y se pueden seguir usando hasta los 3-4 años o el peso máximo que marque cada modelo. Fuera de ese modo específico para recién nacidos, no conviene adaptar un portabebés pensado solo para bebés mayores, aunque parezca que \"se puede ajustar\"."
+    ],
+  },
+  {
+    slug: "para-que-sirve-realmente-una-bascula-de-bebe",
+    title: "Báscula de bebé: para qué sirve realmente en casa",
+    dek: "No es solo para controlar el peso: los usos prácticos que hacen que algunas familias la usen a diario y otras casi nunca.",
+    updated: "2026-09-19",
+    body: [
+      "Una <a href='/guias/basculas-de-bebe.html'>báscula de bebé</a> no es un producto de primera necesidad en el mismo sentido que una cuna o una silla de coche, y por eso genera dudas sobre si de verdad compensa comprarla o si basta con pesar al bebé en las revisiones periódicas.",
+      "El uso más habitual, sobre todo en los primeros meses, es el seguimiento de la ganancia de peso entre visitas, algo que puede dar tranquilidad en periodos de más incertidumbre (por ejemplo, al iniciar o ajustar la lactancia) sin tener que esperar a la siguiente revisión para comprobar una tendencia. Dicho esto, una báscula casera no sustituye el criterio profesional: sirve para observar tendencias generales en casa, no para interpretar cifras concretas ni tomar decisiones sobre alimentación por cuenta propia.",
+      "Otro uso menos conocido pero práctico es pesar el equipaje del bebé o comprobar el peso máximo admitido de otros productos (por ejemplo, si una silla de paseo o un portabebés se acerca a su límite), aprovechando que muchas básculas de bebé también funcionan como báscula de precisión para objetos pequeños.",
+      "Si se opta por comprar una, dos características marcan la diferencia en el uso diario: una plataforma lo bastante grande y con bordes que eviten que el bebé se mueva o resbale, y una función de \"tara\" o bloqueo de lectura para poder pesar a un bebé que no para quieto sin tener que hacer varias lecturas seguidas a mano."
+    ],
+  },
+  {
+    slug: "esterilizador-de-biberones-es-necesario",
+    title: "Esterilizador de biberones: ¿es realmente necesario?",
+    dek: "Qué aporta frente a hervir los biberones a mano y en qué casos compensa más comprarlo.",
+    updated: "2026-09-19",
+    body: [
+      "Antes de la lactancia con biberón o del uso de chupetes, muchas familias se preguntan si un esterilizador es un gasto imprescindible o si basta con los métodos tradicionales de toda la vida, como hervir el material en una olla.",
+      "Hervir biberones y tetinas en agua durante varios minutos sigue siendo un método de esterilización válido y no requiere comprar nada adicional, pero tiene inconvenientes prácticos: hay que estar pendiente del tiempo, controlar que no se dañe el plástico o la silicona por el calor prolongado, y repetir el proceso cada vez que se necesita material limpio, lo que se nota especialmente durante la noche o con varias tomas seguidas.",
+      "Un esterilizador eléctrico o de microondas automatiza ese proceso: coloca el material, programa un ciclo (normalmente entre 5 y 10 minutos) y avisa cuando termina, lo que ahorra tiempo y reduce el margen de error respecto a calcular el tiempo de hervido a ojo. La diferencia se nota más cuanto más biberones se usan al día, por ejemplo con lactancia mixta o exclusivamente de biberón.",
+      "En la práctica, si el bebé toma pecho de forma exclusiva y usa pocos accesorios, puede que el esterilizador se use con poca frecuencia y compense menos; si hay varios biberones, tetinas, chupetes o accesorios de extracción que limpiar cada día, el ahorro de tiempo suele justificar bastante el gasto inicial."
+    ],
+  },
+  {
+    slug: "hamaca-o-balancin-cuando-aporta-y-cuando-no",
+    title: "Hamaca o balancín para bebé: cuándo aporta y cuándo no",
+    dek: "Un producto muy útil en ciertas rutinas y prescindible en otras: cómo saber en qué grupo estás antes de comprarlo.",
+    updated: "2026-09-19",
+    body: [
+      "La <a href='/guias/hamacas-y-balancines-para-bebe.html'>hamaca o balancín</a> es uno de esos productos que algunas familias usan varias veces al día y otras apenas tocan tras las primeras semanas, y la diferencia suele estar más en la rutina de cada casa que en la calidad del producto en sí.",
+      "Aporta más valor en situaciones muy concretas: tener un lugar seguro y reclinado donde dejar al bebé unos minutos mientras se cocina, se ducha o se atiende a un hermano mayor; o como apoyo en los primeros meses cuando el bebé aún no se sostiene sentado y necesita pasar tiempo despierto fuera de los brazos o de la cuna. El movimiento suave de balanceo (manual o automático, según el modelo) ayuda a calmar a algunos bebés, aunque no funciona igual con todos.",
+      "En cambio, si el bebé pasa la mayor parte del tiempo despierto en brazos, en el suelo con supervisión o siendo porteado, es posible que la hamaca se use mucho menos de lo previsto y acabe siendo un mueble más que ocupa espacio. Tampoco es un lugar pensado para dormir siestas largas de forma habitual: los organismos de seguridad infantil recomiendan una superficie firme y plana para el sueño, no una superficie reclinada e inclinada como la de una hamaca.",
+      "Si hay dudas sobre si se va a usar de verdad, valorar el espacio disponible en casa y si ya existen alternativas (una manta en el suelo, los brazos de otro adulto, un moisés cerca) ayuda a decidir mejor que fijarse solo en las funciones que ofrece cada modelo."
+    ],
+  },
+  {
+    slug: "temperatura-y-humedad-en-la-habitacion-del-bebe",
+    title: "Temperatura y humedad en la habitación del bebé: cómo controlarlas sin obsesionarse",
+    dek: "Qué papel juegan un termómetro ambiental y un humidificador, y cuándo merece la pena tenerlos.",
+    updated: "2026-09-19",
+    body: [
+      "El ambiente de la habitación influye en la calidad del sueño del bebé, pero es fácil pasarse tanto por exceso de control como por falta de él. Un <a href='/guias/termometros-y-humidificadores-para-bebe.html'>termómetro ambiental sencillo</a> ayuda a tener una referencia objetiva sin depender solo de la sensación térmica de los adultos, que no siempre coincide con la que necesita un bebé.",
+      "No hace falta perseguir una cifra exacta de temperatura: lo habitual es mantener la habitación en un rango templado y constante, evitando tanto el frío excesivo como el sobrecalentamiento, que es un factor que distintos organismos de prevención de muerte súbita del lactante recomiendan vigilar, sobre todo evitando arropar en exceso o subir demasiado la calefacción por la noche. El termómetro sirve sobre todo para detectar cambios bruscos, no para ajustar la temperatura al grado exacto.",
+      "El humidificador tiene más sentido en climas o épocas del año con ambientes muy secos (calefacción central en invierno, por ejemplo), donde puede ayudar a aliviar mucosidad o sequedad de las vías respiratorias del bebé. En ambientes ya húmedos de por sí, un humidificador adicional puede resultar contraproducente y favorecer la aparición de moho si se usa en exceso, así que conviene observar la humedad real de la habitación antes de dejarlo encendido de forma continua.",
+      "Un detalle práctico que se pasa por alto: cualquier humidificador necesita limpieza regular del depósito de agua para evitar acumulación de bacterias o cal, algo que conviene revisar en la ficha del fabricante antes de comprar, sobre todo si se va a usar todas las noches durante meses seguidos."
+    ],
+  },
+  {
+    slug: "cuna-de-viaje-o-cuna-fija-como-decidir",
+    title: "Cuna de viaje o cuna fija: cómo decidir según tu situación",
+    dek: "No es solo una cuestión de presupuesto: el uso real que le vas a dar cambia bastante cuál conviene más.",
+    updated: "2026-09-19",
+    body: [
+      "Una duda habitual antes de montar la habitación del bebé es si conviene comprar directamente una <a href='/guias/cunas-de-viaje-y-minicunas.html'>cuna de viaje</a> que sirva para todo, o invertir en una cuna fija más tradicional pensada para quedarse en la habitación varios años.",
+      "La cuna de viaje tiene sentido claro si se prevén desplazamientos frecuentes con el bebé (visitas a familiares, vacaciones, fines de semana fuera) o si el espacio en casa es reducido y conviene poder plegarla y guardarla cuando no se usa. Su punto débil suele ser el colchón, más fino de serie que el de una cuna convencional, algo que se nota más si se usa como cuna principal muchas noches seguidas en lugar de solo de forma puntual.",
+      "La cuna fija, en cambio, compensa más si no hay previsión de viajar mucho con el bebé y se prioriza la comodidad a largo plazo: suele admitir un colchón más grueso y firme, y algunos modelos incluyen barrotes regulables en altura o la opción de convertirse en cama infantil más adelante, alargando su vida útil varios años.",
+      "Una tercera opción intermedia, cada vez más habitual, es comprar una cuna de viaje robusta pensada también para uso diario (con colchón de repuesto más grueso) y reservar el presupuesto de la cuna fija para más adelante, si realmente se necesita. No hay una respuesta única válida para todas las familias: depende sobre todo de cuántas veces al año se prevé viajar con el bebé y de cuánto espacio hay disponible en casa."
+    ],
+  },
+  {
+    slug: "trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar",
+    title: "Trona de bebé: cuándo empezar a usarla y cómo hacer la transición a la mesa familiar",
+    dek: "Las señales que indican que el bebé está listo, y cómo hacer más simple el paso de la trona a comer con el resto de la familia.",
+    updated: "2026-09-19",
+    body: [
+      "El momento de empezar a usar una <a href='/guias/tronas-para-bebe.html'>trona</a> suele coincidir con el inicio de la alimentación complementaria, en torno a los 6 meses según la mayoría de fabricantes, pero la señal más fiable no es tanto la edad exacta como que el bebé se sostenga sentado con la espalda erguida, con apoyo si hace falta.",
+      "Antes de ese momento, algunas familias usan una hamaca reclinable o el propio regazo para las primeras tomas, y pasan a la trona cuando el bebé gana suficiente control de tronco como para sentarse cómodamente con el arnés puesto durante toda la comida sin resbalar hacia los lados.",
+      "La transición de la trona a comer en la mesa familiar suele hacerse de forma gradual, no de golpe: muchas tronas evolutivas permiten primero elevar la altura del asiento a la de la mesa manteniendo el arnés y la bandeja, y más adelante retirar la bandeja para que el niño coma directamente en la mesa mientras sigue usando la silla como asiento elevado. Esta transición progresiva suele generar menos resistencia que cambiar todo de golpe.",
+      "Durante todo este proceso, la seguridad del arnés sigue siendo importante mientras el niño esté aprendiendo a mantenerse sentado por su cuenta: conviene seguir usándolo hasta que se tenga la certeza de que no intentará levantarse o inclinarse de forma brusca durante la comida, algo que varía bastante de un niño a otro."
+    ],
+  },
 ];
 
 // Un producto destacado por categoría, para el bloque "Lo más recomendado"
