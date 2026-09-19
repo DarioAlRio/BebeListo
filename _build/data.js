@@ -1485,6 +1485,7 @@ const ARTICLES = [
   },
   {
     slug: "silla-de-coche-i-size-que-significa-realmente",
+    img: "/assets/img/blog/silla-de-coche-i-size-que-significa-realmente.jpg",
     title: "Silla de coche i-Size: qué significa realmente y por qué importa",
     dek: "El estándar i-Size explicado sin tecnicismos: en qué cambia frente a la normativa anterior y qué debes mirar antes de comprar.",
     updated: "2026-09-19",
@@ -1497,6 +1498,7 @@ const ARTICLES = [
   },
   {
     slug: "cochecito-de-paseo-ciudad-o-todoterreno",
+    img: "/assets/img/blog/cochecito-de-paseo-ciudad-o-todoterreno.jpg",
     title: "Cochecito de paseo: ciudad o todoterreno, cómo decidir sin arrepentirse",
     dek: "Las preguntas que de verdad predicen si vas a estar contento con el carrito dentro de seis meses.",
     updated: "2026-09-19",
@@ -1509,6 +1511,7 @@ const ARTICLES = [
   },
   {
     slug: "cuando-y-como-usar-un-monitor-de-video-para-bebes",
+    img: "/assets/img/blog/cuando-y-como-usar-un-monitor-de-video-para-bebes.jpg",
     title: "Cuándo y cómo usar un monitor de vídeo para bebés con tranquilidad",
     dek: "Ni sustituye la supervisión ni es imprescindible desde el primer día: para qué sirve de verdad un vigilabebés con cámara.",
     updated: "2026-09-19",
@@ -1521,6 +1524,7 @@ const ARTICLES = [
   },
   {
     slug: "portabebes-postura-correcta-y-edad-recomendada",
+    img: "/assets/img/blog/portabebes-postura-correcta-y-edad-recomendada.jpg",
     title: "Portabebés ergonómico: postura correcta y edad recomendada",
     dek: "Cómo comprobar en dos minutos si el porteo se está haciendo bien, sin necesidad de conocimientos previos.",
     updated: "2026-09-19",
@@ -1533,6 +1537,7 @@ const ARTICLES = [
   },
   {
     slug: "para-que-sirve-realmente-una-bascula-de-bebe",
+    img: "/assets/img/blog/para-que-sirve-realmente-una-bascula-de-bebe.jpg",
     title: "Báscula de bebé: para qué sirve realmente en casa",
     dek: "No es solo para controlar el peso: los usos prácticos que hacen que algunas familias la usen a diario y otras casi nunca.",
     updated: "2026-09-19",
@@ -1545,6 +1550,7 @@ const ARTICLES = [
   },
   {
     slug: "esterilizador-de-biberones-es-necesario",
+    img: "/assets/img/blog/esterilizador-de-biberones-es-necesario.jpg",
     title: "Esterilizador de biberones: ¿es realmente necesario?",
     dek: "Qué aporta frente a hervir los biberones a mano y en qué casos compensa más comprarlo.",
     updated: "2026-09-19",
@@ -1557,6 +1563,7 @@ const ARTICLES = [
   },
   {
     slug: "hamaca-o-balancin-cuando-aporta-y-cuando-no",
+    img: "/assets/img/blog/hamaca-o-balancin-cuando-aporta-y-cuando-no.jpg",
     title: "Hamaca o balancín para bebé: cuándo aporta y cuándo no",
     dek: "Un producto muy útil en ciertas rutinas y prescindible en otras: cómo saber en qué grupo estás antes de comprarlo.",
     updated: "2026-09-19",
@@ -1569,6 +1576,7 @@ const ARTICLES = [
   },
   {
     slug: "temperatura-y-humedad-en-la-habitacion-del-bebe",
+    img: "/assets/img/blog/temperatura-y-humedad-en-la-habitacion-del-bebe.jpg",
     title: "Temperatura y humedad en la habitación del bebé: cómo controlarlas sin obsesionarse",
     dek: "Qué papel juegan un termómetro ambiental y un humidificador, y cuándo merece la pena tenerlos.",
     updated: "2026-09-19",
@@ -1581,6 +1589,7 @@ const ARTICLES = [
   },
   {
     slug: "cuna-de-viaje-o-cuna-fija-como-decidir",
+    img: "/assets/img/blog/cuna-de-viaje-o-cuna-fija-como-decidir.jpg",
     title: "Cuna de viaje o cuna fija: cómo decidir según tu situación",
     dek: "No es solo una cuestión de presupuesto: el uso real que le vas a dar cambia bastante cuál conviene más.",
     updated: "2026-09-19",
@@ -1593,6 +1602,7 @@ const ARTICLES = [
   },
   {
     slug: "trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar",
+    img: "/assets/img/blog/trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar.jpg",
     title: "Trona de bebé: cuándo empezar a usarla y cómo hacer la transición a la mesa familiar",
     dek: "Las señales que indican que el bebé está listo, y cómo hacer más simple el paso de la trona a comer con el resto de la familia.",
     updated: "2026-09-19",
