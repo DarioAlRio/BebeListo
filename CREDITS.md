@@ -31,6 +31,16 @@ Amazon, no imágenes de banco.
 | como-preparar-la-habitacion-del-bebe.jpg | https://www.pexels.com/photo/armchair-in-corner-of-baby-room-4469192/ |
 | porteo-ergonomico-preguntas-frecuentes.jpg | https://www.pexels.com/photo/a-woman-walking-on-green-grass-carrying-a-baby-6849363/ |
 | cuanto-gastar-en-puericultura-el-primer-ano.jpg | https://www.pexels.com/photo/cheerful-multiracial-parents-near-baby-in-carriage-6393388/ |
+| silla-de-coche-i-size-que-significa-realmente.jpg | https://www.pexels.com/photo/car-seat-in-modern-vehicle-7708639/ |
+| cochecito-de-paseo-ciudad-o-todoterreno.jpg | https://www.pexels.com/photo/stroller-standing-under-tree-15501373/ |
+| cuando-y-como-usar-un-monitor-de-video-para-bebes.jpg | https://www.pexels.com/photo/smart-home-security-camera-24347621/ |
+| portabebes-postura-correcta-y-edad-recomendada.jpg | https://www.pexels.com/photo/a-woman-wearing-a-carrier-while-looking-at-the-sea-6849331/ |
+| para-que-sirve-realmente-una-bascula-de-bebe.jpg | https://www.pexels.com/photo/nurse-weighing-a-little-girl-at-a-pediatricians-office-8460032/ |
+| esterilizador-de-biberones-es-necesario.jpg | https://www.pexels.com/photo/faceless-mother-with-bottle-feeding-baby-7282619/ |
+| hamaca-o-balancin-cuando-aporta-y-cuando-no.jpg | https://www.pexels.com/photo/cute-infant-in-pink-baby-bouncer-indoors-36976744/ |
+| temperatura-y-humedad-en-la-habitacion-del-bebe.jpg | https://www.pexels.com/photo/humidifier-on-wooden-stool-7417506/ |
+| cuna-de-viaje-o-cuna-fija-como-decidir.jpg | https://www.pexels.com/photo/happy-baby-in-playpen-with-colorful-chevrons-39138707/ |
+| trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar.jpg | https://www.pexels.com/photo/baby-sitting-in-a-high-baby-chair-7328424/ |
 
 ## Ambientación general (`assets/img/`)
 
