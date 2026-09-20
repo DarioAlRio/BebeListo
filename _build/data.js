@@ -1792,7 +1792,7 @@ const ARTICLES = [
   {
     slug: "cuanto-gastar-en-puericultura-el-primer-ano",
     img: "/assets/img/blog/cuanto-gastar-en-puericultura-el-primer-ano.jpg",
-    title: "¿Cuánto merece la pena gastar en puericultura el primer año?",
+    title: "Cuánto gastar en puericultura el primer año: presupuesto recomendado (2026)",
     dek: "Dónde está el salto de valor real entre lo básico, lo intermedio y lo premium en los artículos de bebé.",
     updated: "2026-09-08",
     body: [
