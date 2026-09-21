@@ -31,7 +31,7 @@ function escapeHtml(str) {
 }
 
 function paragraphs(arr) {
-  return arr.map((p) => `<p>${p}</p>`).join("\n");
+  return arr.map((p) => (/^<(h2|h3|ul|ol)[\s>]/.test(p) ? p : `<p>${p}</p>`)).join("\n");
 }
 
 function checklist(items) {

@@ -41,6 +41,21 @@ Amazon, no imágenes de banco.
 | temperatura-y-humedad-en-la-habitacion-del-bebe.jpg | https://www.pexels.com/photo/humidifier-on-wooden-stool-7417506/ |
 | cuna-de-viaje-o-cuna-fija-como-decidir.jpg | https://www.pexels.com/photo/happy-baby-in-playpen-with-colorful-chevrons-39138707/ |
 | trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar.jpg | https://www.pexels.com/photo/baby-sitting-in-a-high-baby-chair-7328424/ |
+| mejor-silla-de-coche-para-recien-nacido-como-elegir.jpg | https://www.pexels.com/photo/baby-in-car-seat-with-colorful-hanging-toys-31137006/ |
+| cochecito-3-en-1-o-silla-de-paseo-ligera-cual-comprar.jpg | https://www.pexels.com/photo/brown-stroller-with-rolled-textiles-parked-on-pavement-9405999/ |
+| mejor-trona-para-bebe-como-elegirla.jpg | https://www.pexels.com/photo/an-infant-sitting-on-a-high-chair-7469394/ |
+| vigilabebes-con-camara-o-solo-audio-cual-elegir.jpg | https://www.pexels.com/photo/screen-of-mobile-phone-with-sleeping-baby-4356989/ |
+| mejor-cuna-de-viaje-para-bebe-criterios-antes-de-comprar.jpg | https://www.pexels.com/photo/crib-next-to-bed-in-bedroom-3875087/ |
+| fular-o-mochila-portabebes-cual-elegir.jpg | https://www.pexels.com/photo/man-carrying-his-child-in-a-baby-carrier-13901940/ |
+| esterilizador-electrico-o-de-microondas-cual-compensa.jpg | https://www.pexels.com/photo/baby-bottles-on-blocks-20387764/ |
+| mejor-termometro-para-bebe-infrarrojo-oido-o-digital.jpg | https://www.pexels.com/photo/white-and-yellow-thermometers-5995227/ |
+| humidificador-para-bebe-como-elegir-y-mantenerlo-limpio.jpg | https://www.pexels.com/photo/woman-in-the-bedroom-with-humidifier-6941321/ |
+| que-comprar-para-el-bebe-a-los-6-meses-checklist.jpg | https://www.pexels.com/photo/cozy-baby-outfit-with-animal-prints-28259749/ |
+| que-necesitas-para-viajar-con-un-bebe-checklist.jpg | https://www.pexels.com/photo/blonde-woman-with-baby-looking-through-window-at-airport-13350588/ |
+| bascula-de-bebe-como-elegirla-y-cuanto-gastar.jpg | https://www.pexels.com/photo/newborn-baby-on-a-weighing-scale-11947830/ |
+| errores-al-comprar-un-carrito-de-bebe.jpg | https://www.pexels.com/photo/man-pushing-a-stroller-15956527/ |
+| calientabiberones-como-elegir-uno-y-si-compensa.jpg | https://www.pexels.com/photo/a-woman-holding-a-baby-bottle-7491264/ |
+| silla-de-coche-evolutiva-o-por-etapas-cual-elegir.jpg | https://www.pexels.com/photo/adorable-toddler-securely-sitting-in-a-car-seat-30739458/ |
 
 ## Ambientación general (`assets/img/`)
 
