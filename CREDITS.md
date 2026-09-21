@@ -35,7 +35,7 @@ Amazon, no imágenes de banco.
 | cochecito-de-paseo-ciudad-o-todoterreno.jpg | https://www.pexels.com/photo/stroller-standing-under-tree-15501373/ |
 | cuando-y-como-usar-un-monitor-de-video-para-bebes.jpg | https://www.pexels.com/photo/smart-home-security-camera-24347621/ |
 | portabebes-postura-correcta-y-edad-recomendada.jpg | https://www.pexels.com/photo/a-woman-wearing-a-carrier-while-looking-at-the-sea-6849331/ |
-| para-que-sirve-realmente-una-bascula-de-bebe.jpg | https://www.pexels.com/photo/nurse-weighing-a-little-girl-at-a-pediatricians-office-8460032/ |
+| para-que-sirve-realmente-una-bascula-de-bebe.jpg | https://www.pexels.com/photo/33919289/ |
 | esterilizador-de-biberones-es-necesario.jpg | https://www.pexels.com/photo/faceless-mother-with-bottle-feeding-baby-7282619/ |
 | hamaca-o-balancin-cuando-aporta-y-cuando-no.jpg | https://www.pexels.com/photo/cute-infant-in-pink-baby-bouncer-indoors-36976744/ |
 | temperatura-y-humedad-en-la-habitacion-del-bebe.jpg | https://www.pexels.com/photo/humidifier-on-wooden-stool-7417506/ |
