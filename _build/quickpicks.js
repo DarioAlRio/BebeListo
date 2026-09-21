@@ -120,6 +120,55 @@ const ARTICLE_GUIDES = {
   ],
   "trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar": [
     "tronas-para-bebe"
+  ],
+  "mejor-silla-de-coche-para-recien-nacido-como-elegir": [
+    "sillas-de-coche-para-bebe",
+    "cochecitos-y-carritos-de-bebe"
+  ],
+  "cochecito-3-en-1-o-silla-de-paseo-ligera-cual-comprar": [
+    "cochecitos-y-carritos-de-bebe",
+    "sillas-de-coche-para-bebe"
+  ],
+  "mejor-trona-para-bebe-como-elegirla": [
+    "tronas-para-bebe"
+  ],
+  "vigilabebes-con-camara-o-solo-audio-cual-elegir": [
+    "monitores-y-vigilabebes"
+  ],
+  "mejor-cuna-de-viaje-para-bebe-criterios-antes-de-comprar": [
+    "cunas-de-viaje-y-minicunas"
+  ],
+  "fular-o-mochila-portabebes-cual-elegir": [
+    "portabebes-y-mochilas-ergonomicas"
+  ],
+  "esterilizador-electrico-o-de-microondas-cual-compensa": [
+    "esterilizadores-y-calientabiberones"
+  ],
+  "mejor-termometro-para-bebe-infrarrojo-oido-o-digital": [
+    "termometros-y-humidificadores-para-bebe"
+  ],
+  "humidificador-para-bebe-como-elegir-y-mantenerlo-limpio": [
+    "termometros-y-humidificadores-para-bebe"
+  ],
+  "que-comprar-para-el-bebe-a-los-6-meses-checklist": [
+    "tronas-para-bebe",
+    "hamacas-y-balancines-para-bebe"
+  ],
+  "que-necesitas-para-viajar-con-un-bebe-checklist": [
+    "cunas-de-viaje-y-minicunas",
+    "cochecitos-y-carritos-de-bebe"
+  ],
+  "bascula-de-bebe-como-elegirla-y-cuanto-gastar": [
+    "basculas-de-bebe"
+  ],
+  "errores-al-comprar-un-carrito-de-bebe": [
+    "cochecitos-y-carritos-de-bebe"
+  ],
+  "calientabiberones-como-elegir-uno-y-si-compensa": [
+    "esterilizadores-y-calientabiberones"
+  ],
+  "silla-de-coche-evolutiva-o-por-etapas-cual-elegir": [
+    "sillas-de-coche-para-bebe"
   ]
 };
 
