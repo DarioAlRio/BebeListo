@@ -114,7 +114,7 @@ function home() {
         </p>
       </div>
       <div class="trust-side">
-        <img class="trust-photo" src="/assets/img/trust-bg.jpg" alt="Padres con su bebé en casa" loading="lazy" width="480" height="480">
+        <img class="trust-photo" src="/assets/img/trust-bg.webp" alt="Padres con su bebé en casa" loading="lazy" width="480" height="480">
         <div class="trust-card">
           <h3>Cómo se financia esta web</h3>
           <p>${SITE.amazonDisclaimer}</p>
