@@ -10,7 +10,7 @@
 const GUIDES = [
   {
     slug: "sillas-de-coche-para-bebe",
-    img: "/assets/img/guias/sillas-de-coche-para-bebe.jpg",
+    img: "/assets/img/guias/sillas-de-coche-para-bebe.webp",
     title: "Cómo elegir una silla de coche para bebé",
     dek: "Grupo, normativa i-Size, instalación Isofix y a contramarcha: los criterios que de verdad importan antes de comprar, no el color.",
     updated: "2026-09-17",
@@ -193,7 +193,7 @@ const GUIDES = [
   },
   {
     slug: "cochecitos-y-carritos-de-bebe",
-    img: "/assets/img/guias/cochecitos-y-carritos-de-bebe.jpg",
+    img: "/assets/img/guias/cochecitos-y-carritos-de-bebe.webp",
     title: "Cómo elegir un cochecito o carrito de bebé",
     dek: "Sistema de viaje, peso, plegado y terreno: lo que cambia realmente el día a día con el carrito, más allá del diseño.",
     updated: "2026-09-17",
@@ -367,7 +367,7 @@ const GUIDES = [
   },
   {
     slug: "tronas-para-bebe",
-    img: "/assets/img/guias/tronas-para-bebe.jpg",
+    img: "/assets/img/guias/tronas-para-bebe.webp",
     title: "Cómo elegir una trona para bebé",
     dek: "Evolutiva o clásica, limpieza y seguridad en el arnés: los criterios que hacen que una trona dure y se use de verdad.",
     updated: "2026-09-16",
@@ -540,7 +540,7 @@ const GUIDES = [
   },
   {
     slug: "monitores-y-vigilabebes",
-    img: "/assets/img/guias/monitores-y-vigilabebes.jpg",
+    img: "/assets/img/guias/monitores-y-vigilabebes.webp",
     title: "Cómo elegir un vigilabebés o monitor de bebé",
     dek: "Con o sin WiFi, alcance real, batería y privacidad: los criterios para no quedarte sin señal justo cuando más lo necesitas.",
     updated: "2026-09-16",
@@ -712,7 +712,7 @@ const GUIDES = [
   },
   {
     slug: "cunas-de-viaje-y-minicunas",
-    img: "/assets/img/guias/cunas-de-viaje-y-minicunas.jpg",
+    img: "/assets/img/guias/cunas-de-viaje-y-minicunas.webp",
     title: "Cómo elegir una cuna de viaje o minicuna",
     dek: "Peso, plegado, colchón y estabilidad: lo que marca la diferencia entre una cuna de viaje que se usa y una que acaba en el trastero.",
     updated: "2026-09-15",
@@ -884,7 +884,7 @@ const GUIDES = [
   },
   {
     slug: "portabebes-y-mochilas-ergonomicas",
-    img: "/assets/img/guias/portabebes-y-mochilas-ergonomicas.jpg",
+    img: "/assets/img/guias/portabebes-y-mochilas-ergonomicas.webp",
     title: "Cómo elegir un portabebés o mochila ergonómica",
     dek: "Posición fisiológica, soporte lumbar y rango de edad: los criterios de la Asociación Internacional de Porteo, explicados sin tecnicismos.",
     updated: "2026-09-15",
@@ -1056,7 +1056,7 @@ const GUIDES = [
   },
   {
     slug: "esterilizadores-y-calientabiberones",
-    img: "/assets/img/guias/esterilizadores-y-calientabiberones.jpg",
+    img: "/assets/img/guias/esterilizadores-y-calientabiberones.webp",
     title: "Cómo elegir un esterilizador o calientabiberones",
     dek: "Vapor eléctrico, microondas o UV, y calentamiento uniforme sin puntos calientes: lo que de verdad cambia entre modelos.",
     updated: "2026-09-14",
@@ -1228,7 +1228,7 @@ const GUIDES = [
   },
   {
     slug: "basculas-de-bebe",
-    img: "/assets/img/guias/basculas-de-bebe.jpg",
+    img: "/assets/img/guias/basculas-de-bebe.webp",
     title: "Cómo elegir una báscula de bebé",
     dek: "Precisión, función tara y superficie de pesaje segura: lo que hace que una báscula sirva para algo más que decoración.",
     updated: "2026-09-13",
@@ -1390,7 +1390,7 @@ const GUIDES = [
   },
   {
     slug: "hamacas-y-balancines-para-bebe",
-    img: "/assets/img/guias/hamacas-y-balancines-para-bebe.jpg",
+    img: "/assets/img/guias/hamacas-y-balancines-para-bebe.webp",
     title: "Cómo elegir una hamaca o balancín para bebé",
     dek: "Vibración, reclinación y arnés: los criterios de seguridad y comodidad antes de dejar al bebé sentado unos minutos.",
     updated: "2026-09-12",
@@ -1561,7 +1561,7 @@ const GUIDES = [
   },
   {
     slug: "termometros-y-humidificadores-para-bebe",
-    img: "/assets/img/guias/termometros-y-humidificadores-para-bebe.jpg",
+    img: "/assets/img/guias/termometros-y-humidificadores-para-bebe.webp",
     title: "Cómo elegir un termómetro o un humidificador para bebé",
     dek: "Precisión sin contacto, alarma de fiebre y humedad segura en la habitación: dos aparatos distintos, criterios igual de concretos.",
     updated: "2026-09-11",
@@ -1736,7 +1736,7 @@ const GUIDES = [
 const ARTICLES = [
   {
     slug: "que-necesitas-realmente-para-la-llegada-del-bebe",
-    img: "/assets/img/blog/que-necesitas-realmente-para-la-llegada-del-bebe.jpg",
+    img: "/assets/img/blog/que-necesitas-realmente-para-la-llegada-del-bebe.webp",
     title: "Qué necesitas realmente para la llegada del bebé (y qué puede esperar)",
     dek: "La lista mínima razonable frente a la lista interminable que venden algunas tiendas antes de que nazca el bebé.",
     updated: "2026-09-17",
@@ -1749,7 +1749,7 @@ const ARTICLES = [
   },
   {
     slug: "errores-comunes-al-elegir-silla-de-coche",
-    img: "/assets/img/blog/errores-comunes-al-elegir-silla-de-coche.jpg",
+    img: "/assets/img/blog/errores-comunes-al-elegir-silla-de-coche.webp",
     title: "5 errores comunes al elegir silla de coche para el bebé",
     dek: "Fallos fáciles de evitar que reducen la seguridad real de la silla, aunque el modelo sea bueno.",
     updated: "2026-09-15",
@@ -1764,7 +1764,7 @@ const ARTICLES = [
   },
   {
     slug: "como-preparar-la-habitacion-del-bebe",
-    img: "/assets/img/blog/como-preparar-la-habitacion-del-bebe.jpg",
+    img: "/assets/img/blog/como-preparar-la-habitacion-del-bebe.webp",
     title: "Cómo preparar la habitación del bebé sin gastar de más",
     dek: "El orden lógico para ir montando la habitación sin comprarlo todo el primer mes.",
     updated: "2026-09-13",
@@ -1777,7 +1777,7 @@ const ARTICLES = [
   },
   {
     slug: "porteo-ergonomico-preguntas-frecuentes",
-    img: "/assets/img/blog/porteo-ergonomico-preguntas-frecuentes.jpg",
+    img: "/assets/img/blog/porteo-ergonomico-preguntas-frecuentes.webp",
     title: "Porteo ergonómico: las preguntas que más se repiten antes de comprar el primer portabebés",
     dek: "Aclaraciones rápidas sobre posición, edad y seguridad antes de decidirte por un modelo.",
     updated: "2026-09-10",
@@ -1791,7 +1791,7 @@ const ARTICLES = [
   },
   {
     slug: "cuanto-gastar-en-puericultura-el-primer-ano",
-    img: "/assets/img/blog/cuanto-gastar-en-puericultura-el-primer-ano.jpg",
+    img: "/assets/img/blog/cuanto-gastar-en-puericultura-el-primer-ano.webp",
     title: "Cuánto gastar en puericultura el primer año: presupuesto recomendado (2026)",
     dek: "Dónde está el salto de valor real entre lo básico, lo intermedio y lo premium en los artículos de bebé.",
     updated: "2026-09-08",
@@ -1805,7 +1805,7 @@ const ARTICLES = [
   },
   {
     slug: "silla-de-coche-i-size-que-significa-realmente",
-    img: "/assets/img/blog/silla-de-coche-i-size-que-significa-realmente.jpg",
+    img: "/assets/img/blog/silla-de-coche-i-size-que-significa-realmente.webp",
     title: "Silla de coche i-Size: qué significa realmente y por qué importa",
     dek: "El estándar i-Size explicado sin tecnicismos: en qué cambia frente a la normativa anterior y qué debes mirar antes de comprar.",
     updated: "2026-09-19",
@@ -1818,7 +1818,7 @@ const ARTICLES = [
   },
   {
     slug: "cochecito-de-paseo-ciudad-o-todoterreno",
-    img: "/assets/img/blog/cochecito-de-paseo-ciudad-o-todoterreno.jpg",
+    img: "/assets/img/blog/cochecito-de-paseo-ciudad-o-todoterreno.webp",
     title: "Cochecito de paseo: ciudad o todoterreno, cómo decidir sin arrepentirse",
     dek: "Las preguntas que de verdad predicen si vas a estar contento con el carrito dentro de seis meses.",
     updated: "2026-09-19",
@@ -1831,7 +1831,7 @@ const ARTICLES = [
   },
   {
     slug: "cuando-y-como-usar-un-monitor-de-video-para-bebes",
-    img: "/assets/img/blog/cuando-y-como-usar-un-monitor-de-video-para-bebes.jpg",
+    img: "/assets/img/blog/cuando-y-como-usar-un-monitor-de-video-para-bebes.webp",
     title: "Cuándo y cómo usar un monitor de vídeo para bebés con tranquilidad",
     dek: "Ni sustituye la supervisión ni es imprescindible desde el primer día: para qué sirve de verdad un vigilabebés con cámara.",
     updated: "2026-09-19",
@@ -1844,7 +1844,7 @@ const ARTICLES = [
   },
   {
     slug: "portabebes-postura-correcta-y-edad-recomendada",
-    img: "/assets/img/blog/portabebes-postura-correcta-y-edad-recomendada.jpg",
+    img: "/assets/img/blog/portabebes-postura-correcta-y-edad-recomendada.webp",
     title: "Portabebés ergonómico: postura correcta y edad recomendada",
     dek: "Cómo comprobar en dos minutos si el porteo se está haciendo bien, sin necesidad de conocimientos previos.",
     updated: "2026-09-19",
@@ -1857,7 +1857,7 @@ const ARTICLES = [
   },
   {
     slug: "para-que-sirve-realmente-una-bascula-de-bebe",
-    img: "/assets/img/blog/para-que-sirve-realmente-una-bascula-de-bebe.jpg",
+    img: "/assets/img/blog/para-que-sirve-realmente-una-bascula-de-bebe.webp",
     title: "Báscula de bebé: para qué sirve realmente en casa",
     dek: "No es solo para controlar el peso: los usos prácticos que hacen que algunas familias la usen a diario y otras casi nunca.",
     updated: "2026-09-19",
@@ -1870,7 +1870,7 @@ const ARTICLES = [
   },
   {
     slug: "esterilizador-de-biberones-es-necesario",
-    img: "/assets/img/blog/esterilizador-de-biberones-es-necesario.jpg",
+    img: "/assets/img/blog/esterilizador-de-biberones-es-necesario.webp",
     title: "Esterilizador de biberones: ¿es realmente necesario?",
     dek: "Qué aporta frente a hervir los biberones a mano y en qué casos compensa más comprarlo.",
     updated: "2026-09-19",
@@ -1883,7 +1883,7 @@ const ARTICLES = [
   },
   {
     slug: "hamaca-o-balancin-cuando-aporta-y-cuando-no",
-    img: "/assets/img/blog/hamaca-o-balancin-cuando-aporta-y-cuando-no.jpg",
+    img: "/assets/img/blog/hamaca-o-balancin-cuando-aporta-y-cuando-no.webp",
     title: "Hamaca o balancín para bebé: cuándo aporta y cuándo no",
     dek: "Un producto muy útil en ciertas rutinas y prescindible en otras: cómo saber en qué grupo estás antes de comprarlo.",
     updated: "2026-09-19",
@@ -1896,7 +1896,7 @@ const ARTICLES = [
   },
   {
     slug: "temperatura-y-humedad-en-la-habitacion-del-bebe",
-    img: "/assets/img/blog/temperatura-y-humedad-en-la-habitacion-del-bebe.jpg",
+    img: "/assets/img/blog/temperatura-y-humedad-en-la-habitacion-del-bebe.webp",
     title: "Temperatura y humedad en la habitación del bebé: cómo controlarlas sin obsesionarse",
     dek: "Qué papel juegan un termómetro ambiental y un humidificador, y cuándo merece la pena tenerlos.",
     updated: "2026-09-19",
@@ -1909,7 +1909,7 @@ const ARTICLES = [
   },
   {
     slug: "cuna-de-viaje-o-cuna-fija-como-decidir",
-    img: "/assets/img/blog/cuna-de-viaje-o-cuna-fija-como-decidir.jpg",
+    img: "/assets/img/blog/cuna-de-viaje-o-cuna-fija-como-decidir.webp",
     title: "Cuna de viaje o cuna fija: cómo decidir según tu situación",
     dek: "No es solo una cuestión de presupuesto: el uso real que le vas a dar cambia bastante cuál conviene más.",
     updated: "2026-09-19",
@@ -1922,7 +1922,7 @@ const ARTICLES = [
   },
   {
     slug: "trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar",
-    img: "/assets/img/blog/trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar.jpg",
+    img: "/assets/img/blog/trona-cuando-empezar-y-como-pasar-a-la-mesa-familiar.webp",
     title: "Trona de bebé: cuándo empezar a usarla y cómo hacer la transición a la mesa familiar",
     dek: "Las señales que indican que el bebé está listo, y cómo hacer más simple el paso de la trona a comer con el resto de la familia.",
     updated: "2026-09-19",
@@ -1935,7 +1935,7 @@ const ARTICLES = [
   },
   {
     slug: "mejor-silla-de-coche-para-recien-nacido-como-elegir",
-    img: "/assets/img/blog/mejor-silla-de-coche-para-recien-nacido-como-elegir.jpg",
+    img: "/assets/img/blog/mejor-silla-de-coche-para-recien-nacido-como-elegir.webp",
     title: "Mejor silla de coche para recién nacido: cómo elegirla",
     dek: "Qué mirar antes de comprar la primera silla de coche: tipo de instalación, compatibilidad con tu coche, uso desde el hospital y cuánto tiempo te durará.",
     updated: "2026-09-21",
@@ -1964,7 +1964,7 @@ const ARTICLES = [
   },
   {
     slug: "cochecito-3-en-1-o-silla-de-paseo-ligera-cual-comprar",
-    img: "/assets/img/blog/cochecito-3-en-1-o-silla-de-paseo-ligera-cual-comprar.jpg",
+    img: "/assets/img/blog/cochecito-3-en-1-o-silla-de-paseo-ligera-cual-comprar.webp",
     title: "Cochecito 3 en 1 o silla de paseo ligera: cuál comprar",
     dek: "Comparamos el cochecito 3 en 1 con la silla de paseo ligera: uso real, peso, maletero y presupuesto, para decidir sin gastar de más.",
     updated: "2026-09-21",
@@ -1992,7 +1992,7 @@ const ARTICLES = [
   },
   {
     slug: "mejor-trona-para-bebe-como-elegirla",
-    img: "/assets/img/blog/mejor-trona-para-bebe-como-elegirla.jpg",
+    img: "/assets/img/blog/mejor-trona-para-bebe-como-elegirla.webp",
     title: "Mejor trona para bebé: cómo elegirla sin arrepentirte",
     dek: "Trona evolutiva, plegable o portátil: los criterios que importan de verdad (arnés, bandeja, limpieza, espacio) antes de comprar la trona de tu bebé.",
     updated: "2026-09-21",
@@ -2020,7 +2020,7 @@ const ARTICLES = [
   },
   {
     slug: "vigilabebes-con-camara-o-solo-audio-cual-elegir",
-    img: "/assets/img/blog/vigilabebes-con-camara-o-solo-audio-cual-elegir.jpg",
+    img: "/assets/img/blog/vigilabebes-con-camara-o-solo-audio-cual-elegir.webp",
     title: "Vigilabebés con cámara o solo audio: cuál elegir",
     dek: "Diferencias reales entre vigilabebés de audio, con cámara sin WiFi y con WiFi y app. Alcance, privacidad, batería y precio para decidir bien.",
     updated: "2026-09-21",
@@ -2049,7 +2049,7 @@ const ARTICLES = [
   },
   {
     slug: "mejor-cuna-de-viaje-para-bebe-criterios-antes-de-comprar",
-    img: "/assets/img/blog/mejor-cuna-de-viaje-para-bebe-criterios-antes-de-comprar.jpg",
+    img: "/assets/img/blog/mejor-cuna-de-viaje-para-bebe-criterios-antes-de-comprar.webp",
     title: "Mejor cuna de viaje para bebé: criterios antes de comprar",
     dek: "Peso, plegado, colchón, apertura lateral y uso diario: los criterios clave para elegir una cuna de viaje segura, práctica y que no acabe en un trastero.",
     updated: "2026-09-21",
@@ -2077,7 +2077,7 @@ const ARTICLES = [
   },
   {
     slug: "fular-o-mochila-portabebes-cual-elegir",
-    img: "/assets/img/blog/fular-o-mochila-portabebes-cual-elegir.jpg",
+    img: "/assets/img/blog/fular-o-mochila-portabebes-cual-elegir.webp",
     title: "Fular o mochila portabebés: cuál elegir según tu caso",
     dek: "Fular elástico, fular tejido o mochila ergonómica: ventajas, curva de aprendizaje y para qué edad sirve cada uno, para elegir sin dar vueltas.",
     updated: "2026-09-21",
@@ -2106,7 +2106,7 @@ const ARTICLES = [
   },
   {
     slug: "esterilizador-electrico-o-de-microondas-cual-compensa",
-    img: "/assets/img/blog/esterilizador-electrico-o-de-microondas-cual-compensa.jpg",
+    img: "/assets/img/blog/esterilizador-electrico-o-de-microondas-cual-compensa.webp",
     title: "Esterilizador eléctrico o de microondas: cuál compensa",
     dek: "Comparamos esterilizador eléctrico y de microondas en velocidad, capacidad, mantenimiento y precio para que compres el que realmente vas a usar.",
     updated: "2026-09-21",
@@ -2135,7 +2135,7 @@ const ARTICLES = [
   },
   {
     slug: "mejor-termometro-para-bebe-infrarrojo-oido-o-digital",
-    img: "/assets/img/blog/mejor-termometro-para-bebe-infrarrojo-oido-o-digital.jpg",
+    img: "/assets/img/blog/mejor-termometro-para-bebe-infrarrojo-oido-o-digital.webp",
     title: "Mejor termómetro para bebé: infrarrojo, oído o digital",
     dek: "Termómetro de frente, de oído o digital de contacto: ventajas, límites y qué mirar para comprar el más útil para tu bebé sin caer en modas.",
     updated: "2026-09-21",
@@ -2165,7 +2165,7 @@ const ARTICLES = [
   },
   {
     slug: "humidificador-para-bebe-como-elegir-y-mantenerlo-limpio",
-    img: "/assets/img/blog/humidificador-para-bebe-como-elegir-y-mantenerlo-limpio.jpg",
+    img: "/assets/img/blog/humidificador-para-bebe-como-elegir-y-mantenerlo-limpio.webp",
     title: "Humidificador para bebé: cómo elegir y mantenerlo limpio",
     dek: "Vapor frío o caliente, depósito, ruido y limpieza: qué mirar al comprar un humidificador para la habitación del bebé y cómo mantenerlo higiénico.",
     updated: "2026-09-21",
@@ -2194,7 +2194,7 @@ const ARTICLES = [
   },
   {
     slug: "que-comprar-para-el-bebe-a-los-6-meses-checklist",
-    img: "/assets/img/blog/que-comprar-para-el-bebe-a-los-6-meses-checklist.jpg",
+    img: "/assets/img/blog/que-comprar-para-el-bebe-a-los-6-meses-checklist.webp",
     title: "Qué comprar para el bebé a los 6 meses: checklist",
     dek: "Lo que suele hacer falta al cumplir los 6 meses: trona, alimentación, sueño, paseo y seguridad. Checklist práctico para comprar solo lo necesario.",
     updated: "2026-09-21",
@@ -2223,7 +2223,7 @@ const ARTICLES = [
   },
   {
     slug: "que-necesitas-para-viajar-con-un-bebe-checklist",
-    img: "/assets/img/blog/que-necesitas-para-viajar-con-un-bebe-checklist.jpg",
+    img: "/assets/img/blog/que-necesitas-para-viajar-con-un-bebe-checklist.webp",
     title: "Qué necesitas para viajar con un bebé: checklist 2026",
     dek: "Checklist práctico para viajar con un bebé en coche, tren o avión: qué llevar, qué alquilar en destino y qué dejar en casa para ir ligero.",
     updated: "2026-09-21",
@@ -2252,7 +2252,7 @@ const ARTICLES = [
   },
   {
     slug: "bascula-de-bebe-como-elegirla-y-cuanto-gastar",
-    img: "/assets/img/blog/bascula-de-bebe-como-elegirla-y-cuanto-gastar.jpg",
+    img: "/assets/img/blog/bascula-de-bebe-como-elegirla-y-cuanto-gastar.webp",
     title: "Báscula de bebé: cómo elegirla y cuánto gastar",
     dek: "Precisión, bandeja, tara, capacidad y precio: lo que conviene mirar al comprar una báscula de bebé para casa y cuándo no merece la pena tenerla.",
     updated: "2026-09-21",
@@ -2281,7 +2281,7 @@ const ARTICLES = [
   },
   {
     slug: "errores-al-comprar-un-carrito-de-bebe",
-    img: "/assets/img/blog/errores-al-comprar-un-carrito-de-bebe.jpg",
+    img: "/assets/img/blog/errores-al-comprar-un-carrito-de-bebe.webp",
     title: "Errores al comprar un carrito de bebé: 7 fallos a evitar",
     dek: "Los siete fallos más habituales al elegir carrito o cochecito de bebé (peso, maletero, ruedas, plegado, presupuesto) y cómo evitarlos antes de pagar.",
     updated: "2026-09-21",
@@ -2312,7 +2312,7 @@ const ARTICLES = [
   },
   {
     slug: "calientabiberones-como-elegir-uno-y-si-compensa",
-    img: "/assets/img/blog/calientabiberones-como-elegir-uno-y-si-compensa.jpg",
+    img: "/assets/img/blog/calientabiberones-como-elegir-uno-y-si-compensa.webp",
     title: "Calientabiberones: cómo elegir uno y si compensa",
     dek: "¿Merece la pena un calientabiberones? Tipos, ventajas frente al microondas o el baño maría, seguridad y qué mirar para elegir el que vas a usar.",
     updated: "2026-09-21",
@@ -2341,7 +2341,7 @@ const ARTICLES = [
   },
   {
     slug: "silla-de-coche-evolutiva-o-por-etapas-cual-elegir",
-    img: "/assets/img/blog/silla-de-coche-evolutiva-o-por-etapas-cual-elegir.jpg",
+    img: "/assets/img/blog/silla-de-coche-evolutiva-o-por-etapas-cual-elegir.webp",
     title: "Silla de coche evolutiva o por etapas: cuál elegir",
     dek: "Comparamos comprar una silla evolutiva de 0 a 12 años o ir cambiando por etapas: seguridad, ajuste, ahorro y comodidad, para decidir con criterio.",
     updated: "2026-09-21",
