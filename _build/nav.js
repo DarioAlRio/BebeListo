@@ -11,6 +11,7 @@ const SITE = {
   domain: "https://bebe-listo.vercel.app",
   locale: "es_ES",
   lang: "es",
+  email: "contacto.guiasdecompra@gmail.com",
   // Store ID real, creado en el panel de afiliados.
   amazonTag: "bebelisto06-21",
   amazonDisclaimer:
