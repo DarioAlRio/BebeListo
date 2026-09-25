@@ -21,7 +21,27 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/adler-bascula-bebe-digital-hasta-20-kg-vs-monzana-bascula-bebe-digital-hasta-20kg.html",
+      "destination": "/guias/basculas-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/asalvo-mimmo-silla-de-auto-recien-nacido-vs-bebeconfort-revolvefix-360-i-size.html",
+      "destination": "/guias/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/asalvo-mimmo-silla-de-auto-recien-nacido-vs-britax-romer-silla-coche-evolvafix.html",
+      "destination": "/guias/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/asalvo-mimmo-silla-de-auto-recien-nacido-vs-cbx-by-cybex-silla-de-coche-infantil.html",
+      "destination": "/guias/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/asalvo-mimmo-silla-de-auto-recien-nacido-vs-kikkaboo-alzador-coche-nino-isofix-i-pop.html",
       "destination": "/guias/sillas-de-coche-para-bebe.html",
       "permanent": true
     },
@@ -136,6 +156,16 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/camara-vigilancia-bebe-1080p-con-app-luz-vs-blemil-camara-vigilancia-bebe.html",
+      "destination": "/guias/monitores-y-vigilabebes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/camara-vigilancia-bebe-1080p-con-app-luz-vs-boifun-camara-vigilancia-bebe-2k-3mp.html",
+      "destination": "/guias/monitores-y-vigilabebes.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/camara-vigilancia-bebe-1080p-con-app-luz-vs-boifun-camara-vigilancia-bebe-sin-wifi.html",
       "destination": "/guias/monitores-y-vigilabebes.html",
       "permanent": true
@@ -143,6 +173,16 @@
     {
       "source": "/comparativas/camara-vigilancia-bebe-1080p-con-app-luz-vs-ghb-camara-vigilancia-bebe-con-pantalla.html",
       "destination": "/guias/monitores-y-vigilabebes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/camara-vigilancia-bebe-1080p-con-app-luz-vs-vtech-bm1120-monitor-de-audio-para-bebe.html",
+      "destination": "/guias/monitores-y-vigilabebes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/carrito-bebe-3-en-1-vs-bebby-cochecito-de-bebe-3-en-1.html",
+      "destination": "/guias/cochecitos-y-carritos-de-bebe.html",
       "permanent": true
     },
     {
@@ -157,6 +197,11 @@
     },
     {
       "source": "/comparativas/carrito-bebe-3-en-1-vs-kinderkraft-moov2-carrito-bebe-3-en-1.html",
+      "destination": "/guias/cochecitos-y-carritos-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/carrito-bebe-3-en-1-vs-ms-silla-de-paseo-street.html",
       "destination": "/guias/cochecitos-y-carritos-de-bebe.html",
       "permanent": true
     },
@@ -191,12 +236,22 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/chicco-next2me-essential-cuna-colecho-be-vs-bebeconfort-soft-dreams-cuna-de-viaje.html",
+      "destination": "/guias/cunas-de-viaje-y-minicunas.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/chicco-next2me-essential-cuna-colecho-be-vs-chicco-next2me-magic-evo-cuna-bebe-lado.html",
       "destination": "/guias/cunas-de-viaje-y-minicunas.html",
       "permanent": true
     },
     {
       "source": "/comparativas/chicco-next2me-essential-cuna-colecho-be-vs-hauck-cuna-de-viaje-para-bebe-dream-n.html",
+      "destination": "/guias/cunas-de-viaje-y-minicunas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/chicco-next2me-essential-cuna-colecho-be-vs-kinderkraft-joy-light-cuna-de-viaje.html",
       "destination": "/guias/cunas-de-viaje-y-minicunas.html",
       "permanent": true
     },
@@ -223,6 +278,21 @@
     {
       "source": "/comparativas/cnmtcco-higrometro-digital-termometro-vs-viproud-termometro-digital-infrarrojo.html",
       "destination": "/guias/termometros-y-humidificadores-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cochecitos-y-carritos-de-bebe-bebeconfort-vs-maxi.html",
+      "destination": "/mejores/cochecitos-y-carritos-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cochecitos-y-carritos-de-bebe-kinderkraft-vs-bebeconfort.html",
+      "destination": "/mejores/cochecitos-y-carritos-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cochecitos-y-carritos-de-bebe-kinderkraft-vs-maxi.html",
+      "destination": "/mejores/cochecitos-y-carritos-de-bebe.html",
       "permanent": true
     },
     {
@@ -336,6 +406,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/kikkaboo-silla-de-coche-grupo-1-2-3-vs-bebeconfort-revolvefix-360-i-size.html",
+      "destination": "/guias/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/kikkaboo-silla-de-coche-grupo-1-2-3-vs-britax-romer-silla-coche-evolvafix.html",
       "destination": "/guias/sillas-de-coche-para-bebe.html",
       "permanent": true
@@ -351,12 +426,22 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/kikkaboo-trona-de-bebe-oaty-2-en-1-vs-mobiclinic.html",
+      "destination": "/guias/tronas-para-bebe.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/kikkaboo-trona-de-bebe-oaty-2-en-1-vs-suavinex.html",
       "destination": "/guias/tronas-para-bebe.html",
       "permanent": true
     },
     {
       "source": "/comparativas/kikkaboo-trona-de-bebe-oaty-2-en-1-vs-trona-de-bebe-milo-con-mesa.html",
+      "destination": "/guias/tronas-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kikkaboo-trona-de-bebe-oaty-2-en-1-vs-twinly-alaia-trona-evolutiva-bebe-5-en-1.html",
       "destination": "/guias/tronas-para-bebe.html",
       "permanent": true
     },
@@ -381,12 +466,22 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/kinderkraft-mimi-hamaca-bebe-vs-fisher-price-perezoso-cojin-con-musica.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/kinderkraft-mimi-hamaca-bebe-vs-ingenuity-hamaca-mecedora-para-bebes-3en.html",
       "destination": "/guias/hamacas-y-balancines-para-bebe.html",
       "permanent": true
     },
     {
       "source": "/comparativas/kinderkraft-mimi-hamaca-bebe-vs-ingenuity.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kinderkraft-mimi-hamaca-bebe-vs-ms-babyworld-lullaby-hamaca-para-bebe-2.html",
       "destination": "/guias/hamacas-y-balancines-para-bebe.html",
       "permanent": true
     },
@@ -407,6 +502,16 @@
     },
     {
       "source": "/comparativas/levoit-humidificador-neoclassic-450s-vs-dreo-4l-humidificador-bebes-inteligente.html",
+      "destination": "/guias/termometros-y-humidificadores-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/levoit-humidificador-neoclassic-450s-vs-homvana-top-fill-humidificador-bebes-coo.html",
+      "destination": "/guias/termometros-y-humidificadores-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/levoit-humidificador-neoclassic-450s-vs-vinabo-termometro-digital-casa.html",
       "destination": "/guias/termometros-y-humidificadores-para-bebe.html",
       "permanent": true
     },
@@ -476,8 +581,23 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/mochila-portabebes-ergonomica-0-36-meses-vs-ergobaby-embrace-mochila-portabebe.html",
+      "destination": "/guias/portabebes-y-mochilas-ergonomicas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mochila-portabebes-ergonomica-0-36-meses-vs-ergobaby-mochila-portabebe-omni-breeze.html",
+      "destination": "/guias/portabebes-y-mochilas-ergonomicas.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/mochila-portabebes-ergonomica-0-36-meses-vs-ergobaby-portabebes-omni-classic.html",
       "destination": "/guias/portabebes-y-mochilas-ergonomicas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/momcozy-bascula-bebe-multifuncional-vs-adler-bascula-bebe-digital-hasta-20-kg.html",
+      "destination": "/guias/basculas-de-bebe.html",
       "permanent": true
     },
     {
@@ -491,7 +611,17 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/momcozy-bascula-bebe-multifuncional-vs-cecotec-bascula-bebe-digital-nana.html",
+      "destination": "/guias/basculas-de-bebe.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/momcozy-bascula-bebe-multifuncional-vs-chicco-bascula-electronica-digital.html",
+      "destination": "/guias/basculas-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/momcozy-bascula-bebe-multifuncional-vs-monzana-bascula-bebe-digital-hasta-20kg.html",
       "destination": "/guias/basculas-de-bebe.html",
       "permanent": true
     },
@@ -513,6 +643,21 @@
     {
       "source": "/comparativas/momcozy-esterilizador-y-secador-electric-vs-tommee-tippee-esterilizador-de-vapor.html",
       "destination": "/guias/esterilizadores-y-calientabiberones.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/monitores-y-vigilabebes-blemil-vs-boifun.html",
+      "destination": "/mejores/monitores-y-vigilabebes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/monitores-y-vigilabebes-blemil-vs-vtech.html",
+      "destination": "/mejores/monitores-y-vigilabebes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/monitores-y-vigilabebes-boifun-vs-vtech.html",
+      "destination": "/mejores/monitores-y-vigilabebes.html",
       "permanent": true
     },
     {
@@ -553,6 +698,21 @@
     {
       "source": "/comparativas/philips-avent-esterilizador-y-secador-vs-tigex-esterilizador-biberones.html",
       "destination": "/guias/esterilizadores-y-calientabiberones.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sillas-de-coche-para-bebe-kikkaboo-vs-kinderkraft.html",
+      "destination": "/mejores/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sillas-de-coche-para-bebe-kikkaboo-vs-maxi.html",
+      "destination": "/mejores/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/sillas-de-coche-para-bebe-maxi-vs-kinderkraft.html",
+      "destination": "/mejores/sillas-de-coche-para-bebe.html",
       "permanent": true
     },
     {
@@ -601,6 +761,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/vinabo-termometro-digital-casa-vs-cnmtcco-higrometro-digital-termometro.html",
+      "destination": "/guias/termometros-y-humidificadores-para-bebe.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/vinabo-termometro-digital-casa-vs-dreo-4l-humidificador-bebes-inteligente.html",
       "destination": "/guias/termometros-y-humidificadores-para-bebe.html",
       "permanent": true
@@ -618,6 +783,21 @@
     {
       "source": "/comparativas/viproud-termometro-digital-infrarrojo-vs-dreo-4l-humidificador-bebes-inteligente.html",
       "destination": "/guias/termometros-y-humidificadores-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/hamacas-y-balancines-para-bebe-menos-de-40-euros.html",
+      "destination": "/mejores/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/portabebes-y-mochilas-ergonomicas-recien-nacidos.html",
+      "destination": "/mejores/portabebes-y-mochilas-ergonomicas.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/sillas-de-coche-para-bebe-con-isofix.html",
+      "destination": "/mejores/sillas-de-coche-para-bebe.html",
       "permanent": true
     },
     {
