@@ -1755,14 +1755,14 @@
       "permanent": true
     },
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [
         {
           "type": "host",
           "value": "bebe-listo.vercel.app"
         }
       ],
-      "destination": "https://bebeideal.es/:path*",
+      "destination": "https://bebeideal.es/$1",
       "permanent": true
     },
     {
