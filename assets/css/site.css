@@ -544,3 +544,8 @@ table { border-collapse: collapse; width: 100%; }
   .foot-col li a { display: inline-block; padding: 6px 0; }
 }
 
+
+/* sticky-footer-gap: la barra fija de producto no tapa el final del pie */
+body:has(.seo-sticky) { padding-bottom: 76px; }
+body:has(.seo-sticky) .seo-sticky-space { display: none; }
+@media (max-width: 640px) { body:has(.seo-sticky) { padding-bottom: 96px; } }
