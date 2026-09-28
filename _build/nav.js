@@ -4,18 +4,20 @@
 // (nombre, dominio, tag de afiliado, datos fiscales) se toca aquí, no en las páginas.
 
 const SITE = {
-  name: "BebeListo",
+  name: "BebeIdeal",
   claim: "Guías y comparativas para elegir todo lo que tu bebé necesita sin perder tiempo ni dinero",
   description:
     "Guías de compra y comparativas independientes de sillas de coche, carritos, tronas, vigilabebés y el resto de artículos de puericultura, para decidir con criterio y sin gastar de más.",
-  domain: "https://bebe-listo.vercel.app",
+  domain: "https://bebeideal.es",
+  // Dominios antiguos: redirigen 301 página a página al dominio actual (vercel.json).
+  legacyHosts: ["bebe-listo.vercel.app"],
   locale: "es_ES",
   lang: "es",
   email: "contacto.guiasdecompra@gmail.com",
   // Store ID real, creado en el panel de afiliados.
   amazonTag: "bebelisto06-21",
   amazonDisclaimer:
-    "Como Afiliado de Amazon, BebeListo obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.",
+    "Como Afiliado de Amazon, BebeIdeal obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.",
   social: {
     instagram: null,
     pinterest: null,

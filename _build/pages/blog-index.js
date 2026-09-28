@@ -25,7 +25,7 @@ function blogIndex() {
     route: "blog/index.html",
     path: "/blog/",
     title: "Blog",
-    description: "Artículos sobre preparación de la llegada del bebé, compras y criterios de puericultura de BebeListo.",
+    description: "Artículos sobre preparación de la llegada del bebé, compras y criterios de puericultura de BebeIdeal.",
     breadcrumbsItems: [{ label: "Inicio", href: "/" }, { label: "Blog" }],
     html,
   };
