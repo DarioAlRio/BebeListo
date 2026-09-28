@@ -1,3 +1,16 @@
+// Etiquetas cortas para los botones de filtro.
+const SHORT_LABELS = {
+  "sillas-de-coche-para-bebe": "Sillas de coche",
+  "cochecitos-y-carritos-de-bebe": "Cochecitos",
+  "tronas-para-bebe": "Tronas",
+  "monitores-y-vigilabebes": "Vigilabebés",
+  "cunas-de-viaje-y-minicunas": "Cunas de viaje",
+  "portabebes-y-mochilas-ergonomicas": "Portabebés",
+  "esterilizadores-y-calientabiberones": "Esterilizadores",
+  "basculas-de-bebe": "Básculas",
+  "hamacas-y-balancines-para-bebe": "Hamacas",
+  "termometros-y-humidificadores-para-bebe": "Termómetros"
+};
 "use strict";
 
 const { SITE } = require("../nav");
@@ -11,7 +24,7 @@ function productosIndex() {
   );
 
   const filters = GUIDES.map(
-    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(g.title)} (${g.products.length})</button>`
+    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(SHORT_LABELS[g.slug] || g.title)} (${g.products.length})</button>`
   ).join("\n        ");
 
   const html = `
