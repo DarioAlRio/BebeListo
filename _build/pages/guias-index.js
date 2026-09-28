@@ -25,7 +25,7 @@ function guiasIndex() {
     route: "guias/index.html",
     path: "/guias/",
     title: "Guías de compra",
-    description: "Todas las guías de compra de BebeListo: sillas de coche, carritos, tronas, vigilabebés, cunas de viaje, portabebés, esterilizadores, básculas, hamacas y termómetros/humidificadores para bebé.",
+    description: "Todas las guías de compra de BebeIdeal: sillas de coche, carritos, tronas, vigilabebés, cunas de viaje, portabebés, esterilizadores, básculas, hamacas y termómetros/humidificadores para bebé.",
     breadcrumbsItems: [{ label: "Inicio", href: "/" }, { label: "Guías de compra" }],
     html,
   };
