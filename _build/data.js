@@ -62,6 +62,15 @@ const GUIDES = [
     ],
     products: [
       {
+        asin: "B0DB2H7YQN",
+        title: "CYBEX Gold Silla de coche para niños Sirona G i-Size Plus, Sin Base, De aprox. 3 meses a 4 años, Máx. 19 kg, 61-105 cm (Desde el nacimiento / 40 cm con reductor para recién nacidos), Stone Grey",
+        note: "Silla i-Size a contramarcha hasta 105 cm de una de las marcas de referencia; se vende sin base, cuenta con ese gasto.",
+        img: "https://m.media-amazon.com/images/I/51Yjx-D0x1L._AC_UL320_.jpg",
+        price: "299,95",
+        rating: "4,5★",
+        reviews: 101,
+      },
+      {
         asin: "B0DKXQZ8H7",
         title: "KikkaBoo Silla Coche Bebe Grupo 0 1 2 3 ISOFIX (0-36 kg) i-SECURE, Giratoria 360°, Reclinable, Protección SPS i-Size",
         note: "Punto medio de la categoría, buen equilibrio de prestaciones. Destaca con anclaje Isofix y giro 360°.",
@@ -1275,6 +1284,24 @@ const GUIDES = [
     ],
     products: [
       {
+        asin: "B0077K8GM0",
+        title: "Miniland Scaly Up - Báscula Evolutiva (bebés Y Niños), color Blanco",
+        note: "Evolutiva: la bandeja se retira y sigue sirviendo como báscula de suelo cuando el niño ya se sostiene de pie.",
+        img: "https://m.media-amazon.com/images/I/31AQFh-J9bL._AC_UL320_.jpg",
+        price: "93,60",
+        rating: "4,2★",
+        reviews: 96,
+      },
+      {
+        asin: "B07H7NL2BG",
+        title: "Beurer BY 90 Báscula para bebés con aplicación (iOS + Android) cinta métrica integrada, capacidad de carga de 20 kg y función de retención para bebés que dan patadas",
+        note: "La hermana conectada de la BY 80: guarda los pesajes en la app y trae cinta métrica para llevar también la talla.",
+        img: "https://m.media-amazon.com/images/I/61XFJ0UjOyL._AC_UL320_.jpg",
+        price: "49,99",
+        rating: "4,3★",
+        reviews: 285,
+      },
+      {
         asin: "B0F3TNBF6Z",
         title: "Grownsy Báscula Bebé Digital 150 kg para Bebés, Mascotas y Adultos",
         note: "Gama alta: más funciones y materiales por encima del resto de la selección.",
@@ -1437,6 +1464,15 @@ const GUIDES = [
       { q: "¿Es necesario el arnés si el bebé todavía no se mueve?", a: "Sí: los bebés se sorprenden a sí mismos con movimientos repentinos antes de lo que muchos padres esperan, así que el arnés debe usarse siempre desde la primera vez que se coloca al bebé en la hamaca, no solo cuando ya gatea o se mueve de forma evidente." },
     ],
     products: [
+      {
+        asin: "B0CRV313V2",
+        title: "BabyBjörn Hamaca Bliss, Tejido, Acolchado clásico, Arena",
+        note: "Referencia de las hamacas sin motor: balanceo natural con el propio movimiento del bebé, sin pilas ni ruido.",
+        img: "https://m.media-amazon.com/images/I/61nrs4hXveL._AC_UL320_.jpg",
+        price: "217,71",
+        rating: "4,7★",
+        reviews: 373,
+      },
       {
         asin: "B07R2Y3YLC",
         title: "Bright Starts Asiento Infantil Vibrador, Barra de Juguetes Removible, 0-6 Meses hasta 9 kg, Safari Fun",

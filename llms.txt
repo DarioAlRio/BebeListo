@@ -1,0 +1,34 @@
+# BebeIdeal
+
+> Guías de compra y comparativas independientes de sillas de coche, carritos, tronas, vigilabebés y el resto de artículos de puericultura, para decidir con criterio y sin gastar de más.
+
+BebeIdeal publica guías de compra y rankings en español. Los productos se seleccionan entre los más vendidos de Amazon.es y se ordenan por valoración media y número de opiniones de compradores. No se publican precios fijos. Metodología completa: https://bebeideal.es/sobre-nosotros/
+
+## Rankings
+- [Mejores silla de coche para bebé](https://bebeideal.es/mejores/sillas-de-coche-para-bebe.html): Ranking 2026 de sillas de coche para bebé: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores cochecito o carrito de bebé](https://bebeideal.es/mejores/cochecitos-y-carritos-de-bebe.html): Ranking 2026 de cochecitos y carritos de bebé: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores trona para bebé](https://bebeideal.es/mejores/tronas-para-bebe.html): Ranking 2026 de tronas para bebé: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores vigilabebés o monitor de bebé](https://bebeideal.es/mejores/monitores-y-vigilabebes.html): Ranking 2026 de vigilabebés: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores cuna de viaje o minicuna](https://bebeideal.es/mejores/cunas-de-viaje-y-minicunas.html): Ranking 2026 de cunas de viaje y minicunas: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores portabebés o mochila ergonómica](https://bebeideal.es/mejores/portabebes-y-mochilas-ergonomicas.html): Ranking 2026 de mochilas portabebés: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores esterilizador o calientabiberones](https://bebeideal.es/mejores/esterilizadores-y-calientabiberones.html): Ranking 2026 de calientabiberones y esterilizadores: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores báscula de bebé](https://bebeideal.es/mejores/basculas-de-bebe.html): Ranking 2026 de básculas de bebé: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores hamaca o balancín para bebé](https://bebeideal.es/mejores/hamacas-y-balancines-para-bebe.html): Ranking 2026 de hamacas para bebé: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores termómetro o un humidificador para bebé](https://bebeideal.es/mejores/termometros-y-humidificadores-para-bebe.html): Ranking 2026 de termómetros e higrómetros para bebé: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+
+## Guías de compra
+- [Cómo elegir una silla de coche para bebé](https://bebeideal.es/guias/sillas-de-coche-para-bebe.html)
+- [Cómo elegir un cochecito o carrito de bebé](https://bebeideal.es/guias/cochecitos-y-carritos-de-bebe.html)
+- [Cómo elegir una trona para bebé](https://bebeideal.es/guias/tronas-para-bebe.html)
+- [Cómo elegir un vigilabebés o monitor de bebé](https://bebeideal.es/guias/monitores-y-vigilabebes.html)
+- [Cómo elegir una cuna de viaje o minicuna](https://bebeideal.es/guias/cunas-de-viaje-y-minicunas.html)
+- [Cómo elegir un portabebés o mochila ergonómica](https://bebeideal.es/guias/portabebes-y-mochilas-ergonomicas.html)
+- [Cómo elegir un esterilizador o calientabiberones](https://bebeideal.es/guias/esterilizadores-y-calientabiberones.html)
+- [Cómo elegir una báscula de bebé](https://bebeideal.es/guias/basculas-de-bebe.html)
+- [Cómo elegir una hamaca o balancín para bebé](https://bebeideal.es/guias/hamacas-y-balancines-para-bebe.html)
+- [Cómo elegir un termómetro o un humidificador para bebé](https://bebeideal.es/guias/termometros-y-humidificadores-para-bebe.html)
+
+## Sobre el sitio
+- [Sobre nosotros y metodología](https://bebeideal.es/sobre-nosotros/)
+- [Contacto](https://bebeideal.es/contacto/)
+- [Política de afiliación](https://bebeideal.es/legal/afiliacion.html)
