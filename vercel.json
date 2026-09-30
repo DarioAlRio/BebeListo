@@ -39,14 +39,47 @@
       "statusCode": 301
     },
     {
-      "source": "/comparativas/adler-bascula-bebe-digital-hasta-20-kg-vs-monzana-bascula-bebe-digital-hasta-20kg.html",
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-beaba-hamaca-bebe-up-down-i.html",
       "has": [
         {
           "type": "host",
           "value": "bebe-listo.vercel.app"
         }
       ],
-      "destination": "https://bebeideal.es/guias/basculas-de-bebe.html",
+      "destination": "https://bebeideal.es/guias/hamacas-y-balancines-para-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-fisher-price-perezoso-cojin-con-musica.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/hamacas-y-balancines-para-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-hamaca-de-algodon-para-exteriores.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/hamacas-y-balancines-para-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-kinderkraft-mimi-hamaca-bebe.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/hamacas-y-balancines-para-bebe.html",
       "statusCode": 301
     },
     {
@@ -113,6 +146,50 @@
         }
       ],
       "destination": "https://bebeideal.es/guias/basculas-de-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/bascula-digital-para-bebe-vs-uniweigh-bascula-digital-para-mascotas.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/basculas-de-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/beaba-hamaca-bebe-up-down-i-vs-fisher-price-perezoso-cojin-con-musica.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/beaba-hamaca-bebe-up-down-i-vs-kinderkraft-mimi-hamaca-bebe.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/beaba-hamaca-bebe-up-down-i-vs-maxi-cosi-cassia-hamaca-bebe-electrica.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/",
       "statusCode": 301
     },
     {
@@ -212,6 +289,17 @@
         }
       ],
       "destination": "https://bebeideal.es/guias/sillas-de-coche-para-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/beurer-by-80-bascula-para-bebes-vs-tristar-wg-2421.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/basculas-de-bebe.html",
       "statusCode": 301
     },
     {
@@ -1719,6 +1807,17 @@
         }
       ],
       "destination": "https://bebeideal.es/guias/termometros-y-humidificadores-para-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/mejores/hamacas-y-balancines-para-bebe-menos-de-30-euros.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/mejores/hamacas-y-balancines-para-bebe.html",
       "statusCode": 301
     },
     {
@@ -1755,6 +1854,50 @@
       "statusCode": 301
     },
     {
+      "source": "/productos/amazon-basics-medianas-hamaca-de-tela-con-soporte-abigarrado-300-x-117-x-100-cm-b01lqv4ml4.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/hamacas-y-balancines-para-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/productos/hamaca-de-algodon-para-exteriores-190-x-150-cm-para-camping-soporta-hasta-150-kg-portatil-transpirable-con-bolsa-de-transporte-para-camping-ja-b09zdxxqrh.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/hamacas-y-balancines-para-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/productos/tristar-wg-2421-bascula-150-kg-con-vidrio-de-seguridad-templado-b004ihv3gq.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/basculas-de-bebe.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/productos/uniweigh-bascula-digital-para-mascotas-de-220-libras-x-10-g-de-alta-precision-bascula-para-perros-y-gatos-con-3-unidades-de-pesaje-funcion-de-tara-su-b0d8q5r5zt.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "bebe-listo.vercel.app"
+        }
+      ],
+      "destination": "https://bebeideal.es/guias/basculas-de-bebe.html",
+      "statusCode": 301
+    },
+    {
       "source": "/(.*)",
       "has": [
         {
@@ -1781,8 +1924,23 @@
       "permanent": true
     },
     {
-      "source": "/comparativas/adler-bascula-bebe-digital-hasta-20-kg-vs-monzana-bascula-bebe-digital-hasta-20kg.html",
-      "destination": "/guias/basculas-de-bebe.html",
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-beaba-hamaca-bebe-up-down-i.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-fisher-price-perezoso-cojin-con-musica.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-hamaca-de-algodon-para-exteriores.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-medianas-hamaca-de-tela-vs-kinderkraft-mimi-hamaca-bebe.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
       "permanent": true
     },
     {
@@ -1813,6 +1971,26 @@
     {
       "source": "/comparativas/bascula-bebe-bluetooth-con-bandeja-vs-bagail-bascula-para-bebes.html",
       "destination": "/guias/basculas-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bascula-digital-para-bebe-vs-uniweigh-bascula-digital-para-mascotas.html",
+      "destination": "/guias/basculas-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/beaba-hamaca-bebe-up-down-i-vs-fisher-price-perezoso-cojin-con-musica.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/beaba-hamaca-bebe-up-down-i-vs-kinderkraft-mimi-hamaca-bebe.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/beaba-hamaca-bebe-up-down-i-vs-maxi-cosi-cassia-hamaca-bebe-electrica.html",
+      "destination": "/",
       "permanent": true
     },
     {
@@ -1858,6 +2036,11 @@
     {
       "source": "/comparativas/bebeconfort-revolvefix-360-i-size-vs-kikkaboo-alzador-coche-nino-isofix-i-pop.html",
       "destination": "/guias/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/beurer-by-80-bascula-para-bebes-vs-tristar-wg-2421.html",
+      "destination": "/guias/basculas-de-bebe.html",
       "permanent": true
     },
     {
@@ -2546,6 +2729,11 @@
       "permanent": true
     },
     {
+      "source": "/mejores/hamacas-y-balancines-para-bebe-menos-de-30-euros.html",
+      "destination": "/mejores/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
       "source": "/mejores/hamacas-y-balancines-para-bebe-menos-de-40-euros.html",
       "destination": "/mejores/hamacas-y-balancines-para-bebe.html",
       "permanent": true
@@ -2558,6 +2746,26 @@
     {
       "source": "/mejores/sillas-de-coche-para-bebe-con-isofix.html",
       "destination": "/mejores/sillas-de-coche-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/amazon-basics-medianas-hamaca-de-tela-con-soporte-abigarrado-300-x-117-x-100-cm-b01lqv4ml4.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/hamaca-de-algodon-para-exteriores-190-x-150-cm-para-camping-soporta-hasta-150-kg-portatil-transpirable-con-bolsa-de-transporte-para-camping-ja-b09zdxxqrh.html",
+      "destination": "/guias/hamacas-y-balancines-para-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/tristar-wg-2421-bascula-150-kg-con-vidrio-de-seguridad-templado-b004ihv3gq.html",
+      "destination": "/guias/basculas-de-bebe.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/uniweigh-bascula-digital-para-mascotas-de-220-libras-x-10-g-de-alta-precision-bascula-para-perros-y-gatos-con-3-unidades-de-pesaje-funcion-de-tara-su-b0d8q5r5zt.html",
+      "destination": "/guias/basculas-de-bebe.html",
       "permanent": true
     },
     {
@@ -2582,6 +2790,18 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests"
         }
       ]
     },
