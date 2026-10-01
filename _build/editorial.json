@@ -1,200 +1,580 @@
 {
   "B0GVL1948H": {
-    "resumen": ["Ojo antes de nada: esto no es una silla, es la base Isofix giratoria de la Lionelo Moxie. Si ya tienes la Moxie o la Moxie Next i-Size, es la pieza que convierte una silla correcta en una muy cómoda de usar a diario.", "El giro de 360° con una mano es lo que marca la diferencia en coches de tres puertas o con el bebé dormido: lo sientas de frente a la puerta y lo giras a contramarcha sin contorsiones."],
-    "pros": ["Pata de apoyo e indicadores de instalación correcta: quita la duda de si la has montado bien", "Giro con una sola mano, práctico al subir y bajar al bebé", "Alarga la vida útil del grupo 0+ si pasas la silla de un coche a otro"],
-    "contras": ["Solo sirve con los modelos Moxie de Lionelo: no es universal", "Suma precio a la silla; comparada con una silla con base integrada, el conjunto no sale barato", "La pata de apoyo puede chocar con cofres bajo el suelo de algunos coches: revisa el manual de compatibilidad"],
+    "resumen": [
+      "Ojo antes de nada: esto no es una silla, es la base Isofix giratoria de la Lionelo Moxie. Si ya tienes la Moxie o la Moxie Next i-Size, es la pieza que convierte una silla correcta en una muy cómoda de usar a diario.",
+      "El giro de 360° con una mano es lo que marca la diferencia en coches de tres puertas o con el bebé dormido: lo sientas de frente a la puerta y lo giras a contramarcha sin contorsiones."
+    ],
+    "pros": [
+      "Pata de apoyo e indicadores de instalación correcta: quita la duda de si la has montado bien",
+      "Giro con una sola mano, práctico al subir y bajar al bebé",
+      "Alarga la vida útil del grupo 0+ si pasas la silla de un coche a otro"
+    ],
+    "contras": [
+      "Solo sirve con los modelos Moxie de Lionelo: no es universal",
+      "Suma precio a la silla; comparada con una silla con base integrada, el conjunto no sale barato",
+      "La pata de apoyo puede chocar con cofres bajo el suelo de algunos coches: revisa el manual de compatibilidad"
+    ],
     "para": "familias que ya tienen la Lionelo Moxie y la sacan y meten del coche varias veces al día."
   },
   "B0DWNDXGWV": {
-    "resumen": ["Un alzador sencillo y honesto para la última etapa: niños de 125 a 150 cm. No intenta ser una silla evolutiva, y eso es precisamente lo que lo hace ligero, barato y fácil de pasar de un coche a otro.", "El Isofix aquí no sujeta al niño (lo hace el cinturón del coche), pero evita que el alzador salga despedido cuando va vacío, algo que muchos alzadores baratos no resuelven."],
-    "pros": ["Homologación i-Size para la franja de 125-150 cm, la normativa vigente", "Anclaje Isofix que fija el alzador aunque el niño no esté sentado", "Ligero y compacto: ideal como segunda silla para abuelos o coche de sustitución"],
-    "contras": ["Sin respaldo: menos protección lateral que un alzador con respaldo, pensado solo para niños mayores", "No sirve antes de los 125 cm: no lo compres para 'más adelante' si el niño aún no llega", "Acolchado básico en trayectos largos"],
+    "resumen": [
+      "Un alzador sencillo y honesto para la última etapa: niños de 125 a 150 cm. No intenta ser una silla evolutiva, y eso es precisamente lo que lo hace ligero, barato y fácil de pasar de un coche a otro.",
+      "El Isofix aquí no sujeta al niño (lo hace el cinturón del coche), pero evita que el alzador salga despedido cuando va vacío, algo que muchos alzadores baratos no resuelven."
+    ],
+    "pros": [
+      "Homologación i-Size para la franja de 125-150 cm, la normativa vigente",
+      "Anclaje Isofix que fija el alzador aunque el niño no esté sentado",
+      "Ligero y compacto: ideal como segunda silla para abuelos o coche de sustitución"
+    ],
+    "contras": [
+      "Sin respaldo: menos protección lateral que un alzador con respaldo, pensado solo para niños mayores",
+      "No sirve antes de los 125 cm: no lo compres para 'más adelante' si el niño aún no llega",
+      "Acolchado básico en trayectos largos"
+    ],
     "para": "niños ya grandes que solo necesitan elevar el cinturón y familias que quieren una segunda silla barata."
   },
   "B0CGM5ZVT7": {
-    "resumen": ["La Toral es la típica 'silla para todo el cole': cubre de 76 a 150 cm con una sola compra y se convierte en alzador al quitar el respaldo. Lo que la sitúa en el podio es esa relación entre lo que cuesta y los años que dura.", "Nuestro matiz: las sillas que abarcan tanto rango hacen concesiones. Para un niño de 15 meses, una silla dedicada a contramarcha protege mejor; esta brilla a partir de los 3-4 años."],
-    "pros": ["Un solo gasto desde los 15 meses aproximadamente hasta el final de la etapa de silla", "Homologada i-Size, la normativa más exigente", "Respaldo desmontable: se queda en alzador cuando el niño crece"],
-    "contras": ["Solo va en el sentido de la marcha: pierde frente a las sillas a contramarcha en la etapa de 1 a 4 años", "Instalación con cinturón: hay que revisar el recorrido del cinturón con cuidado", "Un rango tan amplio implica ajustes de reposacabezas y arnés que conviene revisar cada pocos meses"],
+    "resumen": [
+      "La Toral es la típica 'silla para todo el cole': cubre de 76 a 150 cm con una sola compra y se convierte en alzador al quitar el respaldo. Lo que la sitúa en el podio es esa relación entre lo que cuesta y los años que dura.",
+      "Nuestro matiz: las sillas que abarcan tanto rango hacen concesiones. Para un niño de 15 meses, una silla dedicada a contramarcha protege mejor; esta brilla a partir de los 3-4 años."
+    ],
+    "pros": [
+      "Un solo gasto desde los 15 meses aproximadamente hasta el final de la etapa de silla",
+      "Homologada i-Size, la normativa más exigente",
+      "Respaldo desmontable: se queda en alzador cuando el niño crece"
+    ],
+    "contras": [
+      "Solo va en el sentido de la marcha: pierde frente a las sillas a contramarcha en la etapa de 1 a 4 años",
+      "Instalación con cinturón: hay que revisar el recorrido del cinturón con cuidado",
+      "Un rango tan amplio implica ajustes de reposacabezas y arnés que conviene revisar cada pocos meses"
+    ],
     "para": "familias con presupuesto ajustado o que buscan una segunda silla para el coche de los abuelos."
   },
   "B0DB2H7YQN": {
-    "resumen": ["La Sirona G es una de las sillas a contramarcha que más se recomiendan en tiendas especializadas, y por buenos motivos: permite viajar mirando hacia atrás hasta 105 cm, la etapa en la que esa posición más protege el cuello del niño.", "Lo que tienes que saber antes de comprarla: se vende sin base. El precio de la ficha no es el precio final instalada en el coche."],
-    "pros": ["Contramarcha hasta 105 cm, más allá del mínimo legal", "Utilizable desde recién nacido con el reductor incluido", "Marca con recambios, fundas y servicio técnico fáciles de encontrar"],
-    "contras": ["La base se compra aparte y encarece bastante el conjunto", "Silla voluminosa: en utilitarios pequeños el asiento del copiloto se queda justo", "No llega a la etapa de alzador: a los 4 años necesitarás otra silla"],
+    "resumen": [
+      "La Sirona G es una de las sillas a contramarcha que más se recomiendan en tiendas especializadas, y por buenos motivos: permite viajar mirando hacia atrás hasta 105 cm, la etapa en la que esa posición más protege el cuello del niño.",
+      "Lo que tienes que saber antes de comprarla: se vende sin base. El precio de la ficha no es el precio final instalada en el coche."
+    ],
+    "pros": [
+      "Contramarcha hasta 105 cm, más allá del mínimo legal",
+      "Utilizable desde recién nacido con el reductor incluido",
+      "Marca con recambios, fundas y servicio técnico fáciles de encontrar"
+    ],
+    "contras": [
+      "La base se compra aparte y encarece bastante el conjunto",
+      "Silla voluminosa: en utilitarios pequeños el asiento del copiloto se queda justo",
+      "No llega a la etapa de alzador: a los 4 años necesitarás otra silla"
+    ],
     "para": "quien prioriza la contramarcha larga y está dispuesto a pagar por una marca de referencia."
   },
   "B0FT1PSN9D": {
-    "resumen": ["Un sistema 3 en 1 (capazo, silla y grupo 0 según la configuración) de marca poco conocida que se ha ganado un volumen de opiniones notable. Su argumento es cubrir todo el primer año con una compra y a un precio de gama media.", "El mango de altura regulable es un detalle que se agradece más de lo que parece cuando los dos progenitores tienen alturas muy distintas."],
-    "pros": ["Capazo, silla y accesorios en un único pack, sin compras sueltas", "Mango regulable en altura para distintos conductores", "Incluye burbuja de lluvia, que en otras marcas se paga aparte"],
-    "contras": ["Marca con menos red de recambios que Chicco o Bebeconfort: piensa en ruedas y fundas a tres años vista", "Un 3 en 1 suele ser pesado y voluminoso plegado: mide el maletero antes", "Revisa si el grupo 0 está incluido y su homologación concreta en la ficha"],
+    "resumen": [
+      "Un sistema 3 en 1 (capazo, silla y grupo 0 según la configuración) de marca poco conocida que se ha ganado un volumen de opiniones notable. Su argumento es cubrir todo el primer año con una compra y a un precio de gama media.",
+      "El mango de altura regulable es un detalle que se agradece más de lo que parece cuando los dos progenitores tienen alturas muy distintas."
+    ],
+    "pros": [
+      "Capazo, silla y accesorios en un único pack, sin compras sueltas",
+      "Mango regulable en altura para distintos conductores",
+      "Incluye burbuja de lluvia, que en otras marcas se paga aparte"
+    ],
+    "contras": [
+      "Marca con menos red de recambios que Chicco o Bebeconfort: piensa en ruedas y fundas a tres años vista",
+      "Un 3 en 1 suele ser pesado y voluminoso plegado: mide el maletero antes",
+      "Revisa si el grupo 0 está incluido y su homologación concreta en la ficha"
+    ],
     "para": "padres primerizos que quieren resolver el paseo del primer año de una vez y sin irse a gama alta."
   },
   "B0HDZ17B1H": {
-    "resumen": ["Asalvo, marca española, apuesta aquí por lo que de verdad importa en una silla ligera: plegado tipo libro con una mano y uso desde el nacimiento hasta 22 kg. Es la silla que acabas usando a diario cuando el cochecito grande se queda en casa.", "La capota UPF 50+ no es un adorno en España: en verano es de lo primero que se echa en falta en las sillas más baratas."],
-    "pros": ["Plegado con una mano, cómodo con el niño en brazos", "Hasta 22 kg: aguanta prácticamente toda la etapa de silla", "Capota con protección solar UPF 50+"],
-    "contras": ["Ruedas pequeñas: en adoquín o tierra se nota más que en un cochecito", "Para recién nacido, compruebe la reclinación máxima; muchos padres prefieren capazo los primeros meses", "Cesta inferior modesta"],
+    "resumen": [
+      "Asalvo, marca española, apuesta aquí por lo que de verdad importa en una silla ligera: plegado tipo libro con una mano y uso desde el nacimiento hasta 22 kg. Es la silla que acabas usando a diario cuando el cochecito grande se queda en casa.",
+      "La capota UPF 50+ no es un adorno en España: en verano es de lo primero que se echa en falta en las sillas más baratas."
+    ],
+    "pros": [
+      "Plegado con una mano, cómodo con el niño en brazos",
+      "Hasta 22 kg: aguanta prácticamente toda la etapa de silla",
+      "Capota con protección solar UPF 50+"
+    ],
+    "contras": [
+      "Ruedas pequeñas: en adoquín o tierra se nota más que en un cochecito",
+      "Para recién nacido, compruebe la reclinación máxima; muchos padres prefieren capazo los primeros meses",
+      "Cesta inferior modesta"
+    ],
     "para": "uso urbano diario, viajes y como segunda silla ligera."
   },
   "B0FB97GPDH": {
-    "resumen": ["La opción de entrada para quien necesita una silla funcional y poco más: plegable, respaldo reclinable, arnés de 5 puntos. Mobiclinic viene del material ortopédico y se nota en el enfoque práctico, sin florituras.", "Es la silla que tiene sentido como segunda unidad (casa de los abuelos, maletero del coche) más que como silla principal para todo."],
-    "pros": ["Precio de entrada, de lo más asequible del podio", "Arnés de 5 puntos y doble sistema de seguridad en el plegado", "Respaldo reclinable para siestas en el paseo"],
-    "contras": ["Acabados y suspensión básicos: para uso intensivo diario hay opciones más duraderas", "Menos accesorios incluidos que en gamas superiores", "Consulta la edad mínima en la ficha: no todas las sillas de este tipo sirven desde recién nacido"],
+    "resumen": [
+      "La opción de entrada para quien necesita una silla funcional y poco más: plegable, respaldo reclinable, arnés de 5 puntos. Mobiclinic viene del material ortopédico y se nota en el enfoque práctico, sin florituras.",
+      "Es la silla que tiene sentido como segunda unidad (casa de los abuelos, maletero del coche) más que como silla principal para todo."
+    ],
+    "pros": [
+      "Precio de entrada, de lo más asequible del podio",
+      "Arnés de 5 puntos y doble sistema de seguridad en el plegado",
+      "Respaldo reclinable para siestas en el paseo"
+    ],
+    "contras": [
+      "Acabados y suspensión básicos: para uso intensivo diario hay opciones más duraderas",
+      "Menos accesorios incluidos que en gamas superiores",
+      "Consulta la edad mínima en la ficha: no todas las sillas de este tipo sirven desde recién nacido"
+    ],
     "para": "segunda silla, abuelos o presupuestos muy ajustados."
   },
   "B0C159GBKL": {
-    "resumen": ["La Tripp Trapp es la trona que acaba en todas las listas por una razón que no tiene que ver con la moda: es una silla de madera que se regula para acompañar al niño desde que se sienta hasta la adolescencia, y después sirve a un adulto.", "El Baby Set incluido es lo que la hace apta para los primeros meses de alimentación complementaria. Sin él, un bebé de 6 meses no está bien sujeto."],
-    "pros": ["Evolutiva de verdad: asiento y reposapiés se ajustan durante años", "Madera maciza y diseño que no pasa de moda; mantiene valor de segunda mano", "El reposapiés regulable favorece una postura correcta en la mesa"],
-    "contras": ["Precio alto, y bandeja, cojín y arnés se venden aparte", "No se pliega: ocupa su sitio en la cocina permanentemente", "La madera exige más cuidado con manchas que el plástico"],
+    "resumen": [
+      "La Tripp Trapp es la trona que acaba en todas las listas por una razón que no tiene que ver con la moda: es una silla de madera que se regula para acompañar al niño desde que se sienta hasta la adolescencia, y después sirve a un adulto.",
+      "El Baby Set incluido es lo que la hace apta para los primeros meses de alimentación complementaria. Sin él, un bebé de 6 meses no está bien sujeto."
+    ],
+    "pros": [
+      "Evolutiva de verdad: asiento y reposapiés se ajustan durante años",
+      "Madera maciza y diseño que no pasa de moda; mantiene valor de segunda mano",
+      "El reposapiés regulable favorece una postura correcta en la mesa"
+    ],
+    "contras": [
+      "Precio alto, y bandeja, cojín y arnés se venden aparte",
+      "No se pliega: ocupa su sitio en la cocina permanentemente",
+      "La madera exige más cuidado con manchas que el plástico"
+    ],
     "para": "familias que quieren una sola silla para muchos años y comer todos en la misma mesa."
   },
   "B0CK76J1CB": {
-    "resumen": ["Una trona de viaje de tela que se ata a una silla normal y, recogida, se convierte en bolsa. Es de esos productos que no sustituyen a la trona de casa pero que salvan muchas comidas fuera: restaurantes sin tronas, casas de familia, vacaciones.", "Su fuerte es lo poco que ocupa; su límite, que depende de la silla a la que la sujetes."],
-    "pros": ["Cabe en el bolso: pesa y ocupa lo mismo que un neceser", "Doble uso como bolsa con compartimentos", "Precio contenido para un accesorio que se usa mucho en viajes"],
-    "contras": ["Solo es tan estable como la silla a la que se ata: evita sillas con respaldo bajo o patas débiles", "Sin bandeja ni reposapiés", "No es para uso diario como trona principal"],
+    "resumen": [
+      "Una trona de viaje de tela que se ata a una silla normal y, recogida, se convierte en bolsa. Es de esos productos que no sustituyen a la trona de casa pero que salvan muchas comidas fuera: restaurantes sin tronas, casas de familia, vacaciones.",
+      "Su fuerte es lo poco que ocupa; su límite, que depende de la silla a la que la sujetes."
+    ],
+    "pros": [
+      "Cabe en el bolso: pesa y ocupa lo mismo que un neceser",
+      "Doble uso como bolsa con compartimentos",
+      "Precio contenido para un accesorio que se usa mucho en viajes"
+    ],
+    "contras": [
+      "Solo es tan estable como la silla a la que se ata: evita sillas con respaldo bajo o patas débiles",
+      "Sin bandeja ni reposapiés",
+      "No es para uso diario como trona principal"
+    ],
     "para": "familias que comen fuera a menudo o viajan con bebés de 6 meses en adelante."
   },
   "B0B59MMNKS": {
-    "resumen": ["Otra trona portátil, pero de concepto distinto a la de tela: aquí hay un elevador plegable con arnés de 5 puntos y compartimentos, que da algo más de estructura. Cubre de 6 a 36 meses y hasta 15 kg.", "Si dudas entre esta y la de tela, la pregunta es sencilla: ¿la vas a llevar en el bolso o en el maletero?"],
-    "pros": ["Arnés de 5 puntos regulable, más sujeción que un arnés textil simple", "Plegable con compartimentos organizadores", "Rango de uso claro: 6 a 36 meses"],
-    "contras": ["Más voluminosa que una trona de tela", "Límite de 15 kg: algunos niños lo alcanzan antes de los 3 años", "Revisa que encaje en las sillas donde la vas a usar"],
+    "resumen": [
+      "Otra trona portátil, pero de concepto distinto a la de tela: aquí hay un elevador plegable con arnés de 5 puntos y compartimentos, que da algo más de estructura. Cubre de 6 a 36 meses y hasta 15 kg.",
+      "Si dudas entre esta y la de tela, la pregunta es sencilla: ¿la vas a llevar en el bolso o en el maletero?"
+    ],
+    "pros": [
+      "Arnés de 5 puntos regulable, más sujeción que un arnés textil simple",
+      "Plegable con compartimentos organizadores",
+      "Rango de uso claro: 6 a 36 meses"
+    ],
+    "contras": [
+      "Más voluminosa que una trona de tela",
+      "Límite de 15 kg: algunos niños lo alcanzan antes de los 3 años",
+      "Revisa que encaje en las sillas donde la vas a usar"
+    ],
     "para": "uso ocasional en casas de familiares o segundas residencias."
   },
   "B0FVFG1GHY": {
-    "resumen": ["Un vigilabebés con dos cámaras incluidas, algo poco habitual y muy útil si tienes dos hijos o quieres vigilar cuna y zona de juegos a la vez. Combina pantalla propia de 4 pulgadas con conexión WiFi, lo que da lo mejor de los dos mundos.", "La batería de 3000 mAh en el monitor apunta a una noche entera sin enchufar, que es exactamente lo que se le pide."],
-    "pros": ["Dos cámaras en el pack: cubre dos habitaciones sin comprar extras", "Pantalla dedicada y además acceso por WiFi", "Batería amplia para toda la noche"],
-    "contras": ["Al usar WiFi, revisa la configuración de privacidad y cambia la contraseña por defecto", "Marca menos conocida: soporte de app a largo plazo menos garantizado que en Philips o Motorola", "Gama alta dentro de la categoría"],
+    "resumen": [
+      "Un vigilabebés con dos cámaras incluidas, algo poco habitual y muy útil si tienes dos hijos o quieres vigilar cuna y zona de juegos a la vez. Combina pantalla propia de 4 pulgadas con conexión WiFi, lo que da lo mejor de los dos mundos.",
+      "La batería de 3000 mAh en el monitor apunta a una noche entera sin enchufar, que es exactamente lo que se le pide."
+    ],
+    "pros": [
+      "Dos cámaras en el pack: cubre dos habitaciones sin comprar extras",
+      "Pantalla dedicada y además acceso por WiFi",
+      "Batería amplia para toda la noche"
+    ],
+    "contras": [
+      "Al usar WiFi, revisa la configuración de privacidad y cambia la contraseña por defecto",
+      "Marca menos conocida: soporte de app a largo plazo menos garantizado que en Philips o Motorola",
+      "Gama alta dentro de la categoría"
+    ],
     "para": "familias con dos niños o que quieren vigilar dos espacios."
   },
   "B0817G6365": {
-    "resumen": ["El vigilabebés clásico con pantalla de 3,2 pulgadas y sin depender del WiFi. Para muchos padres esto es una ventaja, no una carencia: funciona nada más enchufarlo, sin apps ni cuentas, y la señal no sale de casa.", "Lo que pierdes es poder mirarlo desde el móvil fuera de casa."],
-    "pros": ["Conexión directa cámara-monitor, sin internet: más privado", "Configuración inmediata, sin apps", "Precio de entrada con pantalla incluida"],
-    "contras": ["Pantalla pequeña y resolución modesta de noche", "Alcance limitado en casas con muros gruesos o varias plantas", "Sin acceso remoto desde el móvil"],
+    "resumen": [
+      "El vigilabebés clásico con pantalla de 3,2 pulgadas y sin depender del WiFi. Para muchos padres esto es una ventaja, no una carencia: funciona nada más enchufarlo, sin apps ni cuentas, y la señal no sale de casa.",
+      "Lo que pierdes es poder mirarlo desde el móvil fuera de casa."
+    ],
+    "pros": [
+      "Conexión directa cámara-monitor, sin internet: más privado",
+      "Configuración inmediata, sin apps",
+      "Precio de entrada con pantalla incluida"
+    ],
+    "contras": [
+      "Pantalla pequeña y resolución modesta de noche",
+      "Alcance limitado en casas con muros gruesos o varias plantas",
+      "Sin acceso remoto desde el móvil"
+    ],
     "para": "padres que quieren un vigilabebés simple y sin conexión a internet."
   },
   "B07P3K18NQ": {
-    "resumen": ["Solo audio, y eso es su punto fuerte: VTech lleva años haciendo este tipo de monitores y el BM1120 se centra en oír bien, con largo alcance y luces que indican el nivel de sonido aunque tengas el volumen bajo.", "Muchos pediatras recuerdan que para un bebé sano el audio es suficiente. Si no necesitas ver, te ahorras bastante."],
-    "pros": ["Largo alcance, adecuado para casas grandes o jardín", "Indicador LED de 5 niveles: ves si llora sin subir el volumen", "Unidad de padres con batería recargable"],
-    "contras": ["Sin vídeo: no sabrás si simplemente se ha movido o se ha destapado", "Sin sensores de temperatura o respiración", "Diseño sencillo y algo anticuado"],
+    "resumen": [
+      "Solo audio, y eso es su punto fuerte: VTech lleva años haciendo este tipo de monitores y el BM1120 se centra en oír bien, con largo alcance y luces que indican el nivel de sonido aunque tengas el volumen bajo.",
+      "Muchos pediatras recuerdan que para un bebé sano el audio es suficiente. Si no necesitas ver, te ahorras bastante."
+    ],
+    "pros": [
+      "Largo alcance, adecuado para casas grandes o jardín",
+      "Indicador LED de 5 niveles: ves si llora sin subir el volumen",
+      "Unidad de padres con batería recargable"
+    ],
+    "contras": [
+      "Sin vídeo: no sabrás si simplemente se ha movido o se ha destapado",
+      "Sin sensores de temperatura o respiración",
+      "Diseño sencillo y algo anticuado"
+    ],
     "para": "quien solo necesita oír al bebé y valora el alcance y la sencillez."
   },
   "B0BMM7S59J": {
-    "resumen": ["La Next2Me es la cuna de colecho de referencia en España, y la versión Essential se queda con lo fundamental: se acopla al lateral de la cama, regula la altura y tiene laterales de malla que dejan circular el aire.", "Frente a las Next2Me superiores pierdes funciones como balanceo o inclinación, pero el uso real —el bebé a tu lado, a tu altura— es el mismo."],
-    "pros": ["Compatible con muchas alturas de cama gracias a la regulación", "Malla transpirable en los laterales", "Marca con recambios de colchón y sábanas a medida fáciles de encontrar"],
-    "contras": ["Uso limitado a los primeros meses (hasta unos 9 kg): es una compra de corta duración", "Versión sin balanceo ni inclinación", "Precio alto para el tiempo de uso; se revende bien, eso sí"],
+    "resumen": [
+      "La Next2Me es la cuna de colecho de referencia en España, y la versión Essential se queda con lo fundamental: se acopla al lateral de la cama, regula la altura y tiene laterales de malla que dejan circular el aire.",
+      "Frente a las Next2Me superiores pierdes funciones como balanceo o inclinación, pero el uso real —el bebé a tu lado, a tu altura— es el mismo."
+    ],
+    "pros": [
+      "Compatible con muchas alturas de cama gracias a la regulación",
+      "Malla transpirable en los laterales",
+      "Marca con recambios de colchón y sábanas a medida fáciles de encontrar"
+    ],
+    "contras": [
+      "Uso limitado a los primeros meses (hasta unos 9 kg): es una compra de corta duración",
+      "Versión sin balanceo ni inclinación",
+      "Precio alto para el tiempo de uso; se revende bien, eso sí"
+    ],
     "para": "padres que quieren colecho seguro durante los primeros meses."
   },
   "B0DSVLHZJ3": {
-    "resumen": ["Una cuna de viaje con vocación de todo en uno: moisés con ruedas, cambiador, arco de juegos y bolsa de transporte. Es la opción de quien busca un solo mueble para los primeros meses sin gastar como en una minicuna de marca.", "Tanto accesorio tiene sentido si la vas a usar en casa; si es solo para viajar, sobran piezas y sobra peso."],
-    "pros": ["Muchas funciones en un solo producto: moisés, cambiador y parque", "Ruedas para moverla de habitación", "Precio de entrada para lo que incluye"],
-    "contras": ["El colchón de las cunas de viaje plegables es fino: valora un colchón a medida", "Más piezas, más montaje y más peso al viajar", "Comprueba el peso máximo de cada nivel (moisés y cambiador tienen límites bajos)"],
+    "resumen": [
+      "Una cuna de viaje con vocación de todo en uno: moisés con ruedas, cambiador, arco de juegos y bolsa de transporte. Es la opción de quien busca un solo mueble para los primeros meses sin gastar como en una minicuna de marca.",
+      "Tanto accesorio tiene sentido si la vas a usar en casa; si es solo para viajar, sobran piezas y sobra peso."
+    ],
+    "pros": [
+      "Muchas funciones en un solo producto: moisés, cambiador y parque",
+      "Ruedas para moverla de habitación",
+      "Precio de entrada para lo que incluye"
+    ],
+    "contras": [
+      "El colchón de las cunas de viaje plegables es fino: valora un colchón a medida",
+      "Más piezas, más montaje y más peso al viajar",
+      "Comprueba el peso máximo de cada nivel (moisés y cambiador tienen límites bajos)"
+    ],
     "para": "primeros meses en casa con un presupuesto contenido."
   },
   "B09R9YFNMT": {
-    "resumen": ["La Babyni de Babymoov se pliega como una tienda de campaña con protección anti-UV FPS 50+, y eso la hace diferente: sirve de cuna en un hotel y de zona de juego a la sombra en la playa o el jardín.", "Es ligera y rápida de montar, pero no pretende sustituir a una cuna para el día a día."],
-    "pros": ["Montaje instantáneo tipo pop-up", "Protección solar FPS 50+ para uso exterior", "Muy ligera: cabe en el maletero sin problemas"],
-    "contras": ["Colchón fino, pensado para uso ocasional", "Espacio justo cuando el bebé empieza a gatear", "Plegar este tipo de estructuras requiere pillarle el truco"],
+    "resumen": [
+      "La Babyni de Babymoov se pliega como una tienda de campaña con protección anti-UV FPS 50+, y eso la hace diferente: sirve de cuna en un hotel y de zona de juego a la sombra en la playa o el jardín.",
+      "Es ligera y rápida de montar, pero no pretende sustituir a una cuna para el día a día."
+    ],
+    "pros": [
+      "Montaje instantáneo tipo pop-up",
+      "Protección solar FPS 50+ para uso exterior",
+      "Muy ligera: cabe en el maletero sin problemas"
+    ],
+    "contras": [
+      "Colchón fino, pensado para uso ocasional",
+      "Espacio justo cuando el bebé empieza a gatear",
+      "Plegar este tipo de estructuras requiere pillarle el truco"
+    ],
     "para": "viajes, playa y escapadas de fin de semana."
   },
   "B0H71Y87Q2": {
-    "resumen": ["Una mochila ergonómica evolutiva que va de 3,2 a 20,4 kg: desde recién nacido hasta los tres años aproximadamente. El asiento regulable en tres posiciones es lo que permite mantener la postura en 'M' (rodillas por encima del culete) a medida que el bebé crece.", "Koala Babycare ha conseguido un volumen de opiniones que respalda que la mochila cumple, a un precio por debajo de Ergobaby."],
-    "pros": ["Evolutiva desde el nacimiento sin cojín reductor aparte", "Asiento ajustable que respeta la posición ergonómica en cada etapa", "Buen volumen de valoraciones positivas en su categoría"],
-    "contras": ["Muchas hebillas y ajustes: los primeros usos cuestan", "Más calurosa que un fular o una bandolera de anillas en verano", "Revisa que sea cómoda para el porteador si hay mucha diferencia de talla entre padres"],
+    "resumen": [
+      "Una mochila ergonómica evolutiva que va de 3,2 a 20,4 kg: desde recién nacido hasta los tres años aproximadamente. El asiento regulable en tres posiciones es lo que permite mantener la postura en 'M' (rodillas por encima del culete) a medida que el bebé crece.",
+      "Koala Babycare ha conseguido un volumen de opiniones que respalda que la mochila cumple, a un precio por debajo de Ergobaby."
+    ],
+    "pros": [
+      "Evolutiva desde el nacimiento sin cojín reductor aparte",
+      "Asiento ajustable que respeta la posición ergonómica en cada etapa",
+      "Buen volumen de valoraciones positivas en su categoría"
+    ],
+    "contras": [
+      "Muchas hebillas y ajustes: los primeros usos cuestan",
+      "Más calurosa que un fular o una bandolera de anillas en verano",
+      "Revisa que sea cómoda para el porteador si hay mucha diferencia de talla entre padres"
+    ],
     "para": "padres que van a portear a menudo durante varios años."
   },
   "B01FF518KK": {
-    "resumen": ["La Infantino Flip es la mochila portabebés 'de entrada' más conocida: cuatro posiciones, incluida la de mirar hacia fuera, y un precio que la pone al alcance de cualquiera.", "Nuestra recomendación honesta: está bien para porteos cortos y ocasionales; si vas a portear horas, invierte en una mochila con panel más ancho."],
-    "pros": ["Precio muy asequible", "Cuatro posiciones, incluida la de cara al mundo", "Ligera y fácil de guardar"],
-    "contras": ["Panel estrecho: con bebés grandes la postura en 'M' se pierde", "Tirantes menos acolchados: cansa en porteos largos", "Límite de 14,5 kg, por debajo de las mochilas evolutivas"],
+    "resumen": [
+      "La Infantino Flip es la mochila portabebés 'de entrada' más conocida: cuatro posiciones, incluida la de mirar hacia fuera, y un precio que la pone al alcance de cualquiera.",
+      "Nuestra recomendación honesta: está bien para porteos cortos y ocasionales; si vas a portear horas, invierte en una mochila con panel más ancho."
+    ],
+    "pros": [
+      "Precio muy asequible",
+      "Cuatro posiciones, incluida la de cara al mundo",
+      "Ligera y fácil de guardar"
+    ],
+    "contras": [
+      "Panel estrecho: con bebés grandes la postura en 'M' se pierde",
+      "Tirantes menos acolchados: cansa en porteos largos",
+      "Límite de 14,5 kg, por debajo de las mochilas evolutivas"
+    ],
     "para": "porteos cortos y ocasionales, o como mochila de repuesto."
   },
   "B0D2GLJ1XS": {
-    "resumen": ["La MYRA de KikkaBoo apuesta por correas anchas acolchadas y tres posiciones, hasta 9 kg. Es una mochila para los primeros meses, cuando el bebé pesa poco y el porteo se usa para calmarle o para tener las manos libres en casa.", "Su techo de 9 kg es claro: si buscas algo para porteos hasta los dos años, esta no es."],
-    "pros": ["Correas anchas que reparten el peso", "Económica y sencilla de poner", "Tres posiciones para los primeros meses"],
-    "contras": ["Solo hasta 9 kg: vida útil corta", "Menos regulación de panel que una mochila evolutiva", "Estructura básica en porteos largos"],
+    "resumen": [
+      "La MYRA de KikkaBoo apuesta por correas anchas acolchadas y tres posiciones, hasta 9 kg. Es una mochila para los primeros meses, cuando el bebé pesa poco y el porteo se usa para calmarle o para tener las manos libres en casa.",
+      "Su techo de 9 kg es claro: si buscas algo para porteos hasta los dos años, esta no es."
+    ],
+    "pros": [
+      "Correas anchas que reparten el peso",
+      "Económica y sencilla de poner",
+      "Tres posiciones para los primeros meses"
+    ],
+    "contras": [
+      "Solo hasta 9 kg: vida útil corta",
+      "Menos regulación de panel que una mochila evolutiva",
+      "Estructura básica en porteos largos"
+    ],
     "para": "los primeros meses y porteo en casa."
   },
   "B0HFHX1M7L": {
-    "resumen": ["Un calientabiberones que promete dos cosas: rapidez y temperatura precisa. Lo segundo es lo que importa: calentar la leche a la temperatura corporal sin pasarse evita los puntos calientes que deja el microondas.", "Grownsy es una marca joven pero muy presente en puericultura, con varias versiones de este aparato bien valoradas."],
-    "pros": ["Control de temperatura preciso, más seguro que el microondas", "Calentado rápido para las tomas nocturnas", "Útil también para potitos y leche materna"],
-    "contras": ["No esteriliza: necesitarás otro aparato o método para eso", "Revisa la compatibilidad con biberones de boca ancha", "Uso limitado a la etapa de biberón"],
+    "resumen": [
+      "Un calientabiberones que promete dos cosas: rapidez y temperatura precisa. Lo segundo es lo que importa: calentar la leche a la temperatura corporal sin pasarse evita los puntos calientes que deja el microondas.",
+      "Grownsy es una marca joven pero muy presente en puericultura, con varias versiones de este aparato bien valoradas."
+    ],
+    "pros": [
+      "Control de temperatura preciso, más seguro que el microondas",
+      "Calentado rápido para las tomas nocturnas",
+      "Útil también para potitos y leche materna"
+    ],
+    "contras": [
+      "No esteriliza: necesitarás otro aparato o método para eso",
+      "Revisa la compatibilidad con biberones de boca ancha",
+      "Uso limitado a la etapa de biberón"
+    ],
     "para": "familias con lactancia artificial o que usan leche materna extraída."
   },
   "B001RTU4DQ": {
-    "resumen": ["Esterilizar en el microondas con vapor es la forma más barata y rápida de hacerlo, y el de Tigex lleva años demostrándolo: cinco biberones en cuatro minutos, sin aparato eléctrico que guardar.", "Es un producto sencillo que cumple, sin pretensiones."],
-    "pros": ["Precio muy bajo", "Esteriliza en pocos minutos con vapor, sin químicos", "Capacidad para cinco biberones"],
-    "contras": ["Depende de tener microondas y de que quepa en él", "Sin función de secado", "Plástico que con el uso intensivo puede decolorarse"],
+    "resumen": [
+      "Esterilizar en el microondas con vapor es la forma más barata y rápida de hacerlo, y el de Tigex lleva años demostrándolo: cinco biberones en cuatro minutos, sin aparato eléctrico que guardar.",
+      "Es un producto sencillo que cumple, sin pretensiones."
+    ],
+    "pros": [
+      "Precio muy bajo",
+      "Esteriliza en pocos minutos con vapor, sin químicos",
+      "Capacidad para cinco biberones"
+    ],
+    "contras": [
+      "Depende de tener microondas y de que quepa en él",
+      "Sin función de secado",
+      "Plástico que con el uso intensivo puede decolorarse"
+    ],
     "para": "quien quiere esterilizar de forma rápida, barata y sin ocupar encimera."
   },
   "B07SHY3GQZ": {
-    "resumen": ["El calentador de Tommee Tippee calienta tanto biberones como comida, lo que lo alarga más allá de la etapa de leche. Tommee Tippee es una marca muy extendida y eso ayuda en compatibilidad con sus propios biberones.", "Funciona al baño maría, un método suave aunque más lento que los calentadores de vapor."],
-    "pros": ["Sirve para biberones y potitos", "Marca de referencia en biberones", "Calentado al baño maría, suave para la leche"],
-    "contras": ["Más lento que otros calentadores", "Requiere atención al tiempo para no pasarse de temperatura", "Algunos biberones de otras marcas encajan peor"],
+    "resumen": [
+      "El calentador de Tommee Tippee calienta tanto biberones como comida, lo que lo alarga más allá de la etapa de leche. Tommee Tippee es una marca muy extendida y eso ayuda en compatibilidad con sus propios biberones.",
+      "Funciona al baño maría, un método suave aunque más lento que los calentadores de vapor."
+    ],
+    "pros": [
+      "Sirve para biberones y potitos",
+      "Marca de referencia en biberones",
+      "Calentado al baño maría, suave para la leche"
+    ],
+    "contras": [
+      "Más lento que otros calentadores",
+      "Requiere atención al tiempo para no pasarse de temperatura",
+      "Algunos biberones de otras marcas encajan peor"
+    ],
     "para": "familias que usan biberones Tommee Tippee o calientan también comida."
   },
   "B00NSW4AXA": {
-    "resumen": ["La Beurer BY 80 es la báscula de bebé de referencia en Amazon España por volumen de opiniones: superficie curvada donde el bebé queda recogido, función de tara para descontar la manta y retención de peso para bebés que no paran de moverse.", "No tiene app ni florituras: pesa bien y ya está, que es justo lo que pide una báscula que usarás en revisiones y en los primeros meses de lactancia."],
-    "pros": ["Superficie curvada y segura, el bebé no se desliza", "Función 'hold' para bebés que patalean", "Tara para descontar manta o pañal"],
-    "contras": ["Sin conexión ni registro: anota los pesos tú", "Capacidad de 20 kg: no sirve como báscula familiar después", "Voluminosa para guardar"],
+    "resumen": [
+      "La Beurer BY 80 es la báscula de bebé de referencia en Amazon España por volumen de opiniones: superficie curvada donde el bebé queda recogido, función de tara para descontar la manta y retención de peso para bebés que no paran de moverse.",
+      "No tiene app ni florituras: pesa bien y ya está, que es justo lo que pide una báscula que usarás en revisiones y en los primeros meses de lactancia."
+    ],
+    "pros": [
+      "Superficie curvada y segura, el bebé no se desliza",
+      "Función 'hold' para bebés que patalean",
+      "Tara para descontar manta o pañal"
+    ],
+    "contras": [
+      "Sin conexión ni registro: anota los pesos tú",
+      "Capacidad de 20 kg: no sirve como báscula familiar después",
+      "Voluminosa para guardar"
+    ],
     "para": "control de peso en los primeros meses, sobre todo durante la lactancia."
   },
   "B07H7NL2BG": {
-    "resumen": ["La BY 90 es la BY 80 con memoria: se conecta a una app y guarda los pesajes, y añade una cinta métrica para medir la talla. Si te gusta llevar la curva de crecimiento con datos, ahorra la libreta.", "Si no vas a usar la app, la BY 80 hace lo mismo por menos."],
-    "pros": ["Registro de pesos en app, útil para compartir con el pediatra", "Cinta métrica integrada", "Mantiene la función de retención para bebés que se mueven"],
-    "contras": ["Más cara que la BY 80 por funciones que no todos usan", "Dependes de la app en el móvil", "Mismo límite de 20 kg"],
+    "resumen": [
+      "La BY 90 es la BY 80 con memoria: se conecta a una app y guarda los pesajes, y añade una cinta métrica para medir la talla. Si te gusta llevar la curva de crecimiento con datos, ahorra la libreta.",
+      "Si no vas a usar la app, la BY 80 hace lo mismo por menos."
+    ],
+    "pros": [
+      "Registro de pesos en app, útil para compartir con el pediatra",
+      "Cinta métrica integrada",
+      "Mantiene la función de retención para bebés que se mueven"
+    ],
+    "contras": [
+      "Más cara que la BY 80 por funciones que no todos usan",
+      "Dependes de la app en el móvil",
+      "Mismo límite de 20 kg"
+    ],
     "para": "padres que quieren registrar peso y talla sin apuntar a mano."
   },
   "B0077K8GM0": {
-    "resumen": ["La Scaly Up de Miniland es 'evolutiva' de verdad: la bandeja de bebé se quita y la base sigue funcionando como báscula de suelo cuando el niño ya se pone de pie. Alarga su utilidad bastante más allá del primer año.", "Es la más cara de este grupo de básculas; paga la segunda vida."],
-    "pros": ["Dos básculas en una: bebé y niño", "Marca española especializada en puericultura", "Diseño compacto sin bandeja"],
-    "contras": ["Precio alto para una báscula", "Menos valoraciones que las Beurer", "Revisa la resolución de pesaje en modo bebé si la necesitas muy fina"],
+    "resumen": [
+      "La Scaly Up de Miniland es 'evolutiva' de verdad: la bandeja de bebé se quita y la base sigue funcionando como báscula de suelo cuando el niño ya se pone de pie. Alarga su utilidad bastante más allá del primer año.",
+      "Es la más cara de este grupo de básculas; paga la segunda vida."
+    ],
+    "pros": [
+      "Dos básculas en una: bebé y niño",
+      "Marca española especializada en puericultura",
+      "Diseño compacto sin bandeja"
+    ],
+    "contras": [
+      "Precio alto para una báscula",
+      "Menos valoraciones que las Beurer",
+      "Revisa la resolución de pesaje en modo bebé si la necesitas muy fina"
+    ],
     "para": "quien quiere una báscula que siga sirviendo durante la infancia."
   },
   "B0GVSBNZFY": {
-    "resumen": ["Una báscula de bebé genérica que cumple con lo básico —tara, apagado automático, 20 kg— a una fracción del precio de las de marca. Su amplio volumen de opiniones indica que, para pesajes de control, hace su trabajo.", "Es una compra razonable si solo vas a pesar al bebé unas pocas semanas."],
-    "pros": ["Precio muy asequible", "Función de tara y apagado automático", "Sirve también para mascotas pequeñas"],
-    "contras": ["Marca genérica: sin respaldo de servicio técnico conocido", "Sin función de retención para bebés inquietos (revísalo en la ficha)", "Bandeja menos envolvente que la Beurer"],
+    "resumen": [
+      "Una báscula de bebé genérica que cumple con lo básico —tara, apagado automático, 20 kg— a una fracción del precio de las de marca. Su amplio volumen de opiniones indica que, para pesajes de control, hace su trabajo.",
+      "Es una compra razonable si solo vas a pesar al bebé unas pocas semanas."
+    ],
+    "pros": [
+      "Precio muy asequible",
+      "Función de tara y apagado automático",
+      "Sirve también para mascotas pequeñas"
+    ],
+    "contras": [
+      "Marca genérica: sin respaldo de servicio técnico conocido",
+      "Sin función de retención para bebés inquietos (revísalo en la ficha)",
+      "Bandeja menos envolvente que la Beurer"
+    ],
     "para": "pesajes puntuales de control con presupuesto mínimo."
   },
   "B0BQ1L5798": {
-    "resumen": ["La Nana de Cecotec tiene un truco útil: pesa de 50 g a 40 kg, así que después de la etapa de bebé sigue sirviendo. Superficie grande y pantalla LED legible.", "Cecotec tiene servicio técnico en España, algo a valorar frente a genéricas."],
-    "pros": ["Capacidad hasta 40 kg, más vida útil", "Superficie amplia de 60x25 cm", "Marca con servicio técnico en España"],
-    "contras": ["Superficie plana: menos recogida para recién nacidos", "Precisión de 50 g, suficiente pero no la más fina", "Diseño funcional sin extras"],
+    "resumen": [
+      "La Nana de Cecotec tiene un truco útil: pesa de 50 g a 40 kg, así que después de la etapa de bebé sigue sirviendo. Superficie grande y pantalla LED legible.",
+      "Cecotec tiene servicio técnico en España, algo a valorar frente a genéricas."
+    ],
+    "pros": [
+      "Capacidad hasta 40 kg, más vida útil",
+      "Superficie amplia de 60x25 cm",
+      "Marca con servicio técnico en España"
+    ],
+    "contras": [
+      "Superficie plana: menos recogida para recién nacidos",
+      "Precisión de 50 g, suficiente pero no la más fina",
+      "Diseño funcional sin extras"
+    ],
     "para": "quien quiere una báscula que dure más que el primer año sin pagar gama alta."
   },
   "B0CRV313V2": {
-    "resumen": ["La Bliss es la hamaca sin motor por excelencia: el bebé la balancea con sus propios movimientos, sin pilas, música ni luces. Es una filosofía distinta a la de las hamacas vibradoras, y mucha gente la prefiere precisamente por eso.", "Es cara, pero se pliega plana, dura años y tiene un mercado de segunda mano muy activo."],
-    "pros": ["Balanceo natural, sin motor ni pilas", "Se pliega en plano y ocupa poco", "Tejido lavable y buena reventa"],
-    "contras": ["Precio muy alto para una hamaca", "No mece sola: si buscas que duerma con vibración, no es para ti", "Uso limitado a los primeros meses hasta que se sienta solo"],
+    "resumen": [
+      "La Bliss es la hamaca sin motor por excelencia: el bebé la balancea con sus propios movimientos, sin pilas, música ni luces. Es una filosofía distinta a la de las hamacas vibradoras, y mucha gente la prefiere precisamente por eso.",
+      "Es cara, pero se pliega plana, dura años y tiene un mercado de segunda mano muy activo."
+    ],
+    "pros": [
+      "Balanceo natural, sin motor ni pilas",
+      "Se pliega en plano y ocupa poco",
+      "Tejido lavable y buena reventa"
+    ],
+    "contras": [
+      "Precio muy alto para una hamaca",
+      "No mece sola: si buscas que duerma con vibración, no es para ti",
+      "Uso limitado a los primeros meses hasta que se sienta solo"
+    ],
     "para": "familias que buscan una hamaca sencilla, bonita y duradera."
   },
   "B08LDWK96K": {
-    "resumen": ["Un cojín con vibraciones y música de Fisher-Price, pensado para ratos de juego y relax cuando el bebé ya tiene algo de tono. Tiene mordedor y actividades: es más juguete que asiento.", "Nunca lo uses para dormir: es un cojín, no una superficie de sueño."],
-    "pros": ["Vibración y música que calman a muchos bebés", "Mordedor y elementos de actividad incluidos", "Precio de entrada"],
-    "contras": ["No es un asiento con arnés: siempre bajo supervisión y en el suelo", "Funciona con pilas", "Uso limitado en el tiempo"],
+    "resumen": [
+      "Un cojín con vibraciones y música de Fisher-Price, pensado para ratos de juego y relax cuando el bebé ya tiene algo de tono. Tiene mordedor y actividades: es más juguete que asiento.",
+      "Nunca lo uses para dormir: es un cojín, no una superficie de sueño."
+    ],
+    "pros": [
+      "Vibración y música que calman a muchos bebés",
+      "Mordedor y elementos de actividad incluidos",
+      "Precio de entrada"
+    ],
+    "contras": [
+      "No es un asiento con arnés: siempre bajo supervisión y en el suelo",
+      "Funciona con pilas",
+      "Uso limitado en el tiempo"
+    ],
     "para": "ratos de juego supervisado en el suelo."
   },
   "B07R2Y3YLC": {
-    "resumen": ["La hamaca vibradora clásica de entrada: asiento con arnés, vibración suave y barra de juguetes desmontable, para bebés de 0 a 6 meses y hasta 9 kg. Bright Starts es de las marcas más extendidas en este tipo de producto.", "Es una compra sin grandes pretensiones que cubre exactamente lo que promete."],
-    "pros": ["Vibración relajante y barra de juguetes", "Precio muy bajo", "Ligera y fácil de mover por la casa"],
-    "contras": ["Uso limitado: hasta 9 kg o cuando el bebé intenta sentarse", "Funciona a pilas", "Materiales básicos"],
+    "resumen": [
+      "La hamaca vibradora clásica de entrada: asiento con arnés, vibración suave y barra de juguetes desmontable, para bebés de 0 a 6 meses y hasta 9 kg. Bright Starts es de las marcas más extendidas en este tipo de producto.",
+      "Es una compra sin grandes pretensiones que cubre exactamente lo que promete."
+    ],
+    "pros": [
+      "Vibración relajante y barra de juguetes",
+      "Precio muy bajo",
+      "Ligera y fácil de mover por la casa"
+    ],
+    "contras": [
+      "Uso limitado: hasta 9 kg o cuando el bebé intenta sentarse",
+      "Funciona a pilas",
+      "Materiales básicos"
+    ],
     "para": "quien busca una hamaca vibradora barata para los primeros meses."
   },
   "B0F5GMPFBM": {
-    "resumen": ["Ocho termómetros digitales pequeños por un precio de un solo aparato. Para la habitación del bebé, lo útil es tener uno en cada estancia y ver de un vistazo si la del bebé está en los 18-21 °C que suele recomendar el pediatra.", "Son sencillos: miden y muestran. Nada más."],
-    "pros": ["Pack de ocho: uno por habitación", "Precio por unidad muy bajo", "Compactos, se colocan en cualquier sitio"],
-    "contras": ["Solo temperatura en algunos modelos del pack: revisa si miden humedad", "Pantalla pequeña", "Precisión de termómetro doméstico, no de laboratorio"],
+    "resumen": [
+      "Ocho termómetros digitales pequeños por un precio de un solo aparato. Para la habitación del bebé, lo útil es tener uno en cada estancia y ver de un vistazo si la del bebé está en los 18-21 °C que suele recomendar el pediatra.",
+      "Son sencillos: miden y muestran. Nada más."
+    ],
+    "pros": [
+      "Pack de ocho: uno por habitación",
+      "Precio por unidad muy bajo",
+      "Compactos, se colocan en cualquier sitio"
+    ],
+    "contras": [
+      "Solo temperatura en algunos modelos del pack: revisa si miden humedad",
+      "Pantalla pequeña",
+      "Precisión de termómetro doméstico, no de laboratorio"
+    ],
     "para": "controlar la temperatura en varias habitaciones a la vez."
   },
   "B0CHYX9K61": {
-    "resumen": ["Termómetro e higrómetro en uno, con pantalla más grande. La humedad es tan importante como la temperatura en la habitación de un bebé: entre el 40 y el 60 % es el rango que se suele recomendar, sobre todo con catarros.", "Te dice cuándo necesitas un humidificador y, sobre todo, cuándo no."],
-    "pros": ["Mide temperatura y humedad", "Pantalla legible", "Buen equilibrio entre precio y función"],
-    "contras": ["Una sola unidad", "Sin alarmas ni registro histórico", "Funciona con pila"],
+    "resumen": [
+      "Termómetro e higrómetro en uno, con pantalla más grande. La humedad es tan importante como la temperatura en la habitación de un bebé: entre el 40 y el 60 % es el rango que se suele recomendar, sobre todo con catarros.",
+      "Te dice cuándo necesitas un humidificador y, sobre todo, cuándo no."
+    ],
+    "pros": [
+      "Mide temperatura y humedad",
+      "Pantalla legible",
+      "Buen equilibrio entre precio y función"
+    ],
+    "contras": [
+      "Una sola unidad",
+      "Sin alarmas ni registro histórico",
+      "Funciona con pila"
+    ],
     "para": "vigilar la humedad y temperatura en la habitación del bebé."
   },
   "B0F2FLDHPY": {
-    "resumen": ["Cuatro higrómetros-termómetro compactos. Es la versión en pack de la idea anterior: humedad y temperatura en cada habitación a un precio muy bajo por unidad.", "Si tu casa tiene problemas de condensación o calefacción seca, tener datos en varias estancias ayuda a decidir dónde actuar."],
-    "pros": ["Pack de cuatro con humedad y temperatura", "Precio muy bajo por unidad", "Tamaño discreto"],
-    "contras": ["Pantalla pequeña", "Precisión orientativa", "Marca genérica"],
+    "resumen": [
+      "Cuatro higrómetros-termómetro compactos. Es la versión en pack de la idea anterior: humedad y temperatura en cada habitación a un precio muy bajo por unidad.",
+      "Si tu casa tiene problemas de condensación o calefacción seca, tener datos en varias estancias ayuda a decidir dónde actuar."
+    ],
+    "pros": [
+      "Pack de cuatro con humedad y temperatura",
+      "Precio muy bajo por unidad",
+      "Tamaño discreto"
+    ],
+    "contras": [
+      "Pantalla pequeña",
+      "Precisión orientativa",
+      "Marca genérica"
+    ],
     "para": "casas con problemas de humedad o calefacción seca."
+  },
+  "B0C33NKN5T": {
+    "resumen": [
+      "Un 3 en 1 de marca poco conocida que junta capazo, silla de paseo y portabebé en un solo chasis. Su atractivo es reunir el sistema de viaje completo sin pagar lo que cuesta en marcas como Kinderkraft o Bugaboo.",
+      "La ficha da pocos datos verificables: antes de comprarlo, comprueba el peso real del chasis, cómo pliega y si el portabebé cumple la norma i-Size (R129) para ir en el coche."
+    ],
+    "pros": [
+      "Sistema de viaje completo en una sola compra",
+      "Plegado tipo bastón, más compacto que el plegado libro",
+      "Precio de gama media para un 3 en 1"
+    ],
+    "contras": [
+      "Marca sin servicio técnico conocido en España",
+      "La ficha no detalla peso ni homologación del portabebé",
+      "Los recambios (ruedas, capota) son difíciles de encontrar"
+    ],
+    "para": "Familias que quieren un 3 en 1 sin pasar a gama alta y no les importa revisar bien la ficha antes de comprar."
   }
 }
