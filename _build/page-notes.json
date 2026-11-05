@@ -1,1 +1,66 @@
-{}
+{
+ "/mejores/monitores-y-vigilabebes.html": [
+  {
+   "h": "Monitor de bebé con WiFi o sin WiFi",
+   "p": [
+    "Los vigilabebés sin WiFi usan una conexión directa entre cámara y pantalla. No dependen del router, no envían imágenes a internet y se encienden y funcionan en segundos. Es la opción que suelen preferir los padres por privacidad y sencillez.",
+    "Los modelos WiFi te dejan ver al bebé desde el móvil fuera de casa, pero dependen de la app del fabricante y de tu red. Si eliges uno, cambia la contraseña por defecto y mantén la app actualizada."
+   ]
+  },
+  {
+   "h": "Batería y alcance real",
+   "p": [
+    "Una pantalla con batería de 4000 mAh o más aguanta una noche entera con la pantalla en modo ahorro (que se enciende al detectar sonido). Con la pantalla siempre encendida dura bastante menos.",
+    "El alcance que indica la caja es en campo abierto. En una casa con varias paredes o en dos plantas, cuenta con la mitad. Coloca la cámara a más de un metro de la cuna y con los cables fuera del alcance del bebé."
+   ]
+  }
+ ],
+ "/mejores/cunas-de-viaje-y-minicunas.html": [
+  {
+   "h": "Cuna de viaje o minicuna: para qué sirve cada una",
+   "p": [
+    "La cuna de viaje es plegable y sirve para dormir fuera de casa y como parque de juegos. La minicuna está pensada para los primeros meses junto a la cama de los padres; muchas son de colecho y se acoplan al lateral.",
+    "Las cunas de viaje admiten normalmente hasta unos 15 kg (alrededor de los 3 años); las minicunas se quedan pequeñas hacia los 5–6 meses o cuando el bebé empieza a incorporarse."
+   ]
+  },
+  {
+   "h": "Seguridad: el colchón",
+   "p": [
+    "Busca que cumpla la norma EN 716 de cunas de uso doméstico. Usa solo el colchón que viene con la cuna o uno a medida que no deje huecos en los laterales.",
+    "No añadas un segundo colchón grueso encima del original de una cuna de viaje: crea huecos y eleva al bebé por encima del lateral. Si el colchón original te parece fino, existen colchones específicos para cada modelo."
+   ]
+  }
+ ],
+ "/mejores/tronas-para-bebe.html": [
+  {
+   "h": "Trona evolutiva o de comer: cuál compensa",
+   "p": [
+    "Una trona evolutiva se convierte en silla para el niño cuando crece y se usa durante años. Ocupa más y suele ser de madera, pero amortiza la compra.",
+    "Las tronas compactas o plegables tienen sentido en pisos pequeños o para casa de los abuelos. Para viajes, un elevador que se sujeta a una silla normal ocupa mucho menos."
+   ]
+  },
+  {
+   "h": "Qué mirar en la seguridad y la limpieza",
+   "p": [
+    "Que tenga arnés de 5 puntos y separador de piernas para que el bebé no se deslice por debajo de la bandeja. La norma europea de tronas es la EN 14988.",
+    "Las bandejas que se quitan con una mano y se meten en el lavavajillas ahorran mucho tiempo. Los cojines de tela bonitos son un engorro si no se pueden lavar a máquina."
+   ]
+  }
+ ],
+ "/mejores/sillas-de-coche-para-bebe.html": [
+  {
+   "h": "i-Size y contramarcha: lo que conviene saber",
+   "p": [
+    "La normativa i-Size (R129) clasifica las sillas por la altura del niño, no por el peso. Obliga a llevar al bebé a contramarcha, mirando hacia atrás, hasta al menos los 15 meses; los expertos en seguridad infantil recomiendan alargarlo todo lo posible.",
+    "Las sillas homologadas solo con la antigua R44 ya no se pueden vender nuevas, pero se pueden seguir usando."
+   ]
+  },
+  {
+   "h": "Compatibilidad con tu coche",
+   "p": [
+    "Comprueba que tu coche tiene anclajes ISOFIX y que el modelo aparece en la lista de vehículos compatibles del fabricante, sobre todo si la silla lleva pata de apoyo.",
+    "Las sillas giratorias de 360° facilitan mucho sentar al bebé, pero pesan y ocupan más: en coches pequeños comprueba que el asiento delantero no queda demasiado adelantado."
+   ]
+  }
+ ]
+}
